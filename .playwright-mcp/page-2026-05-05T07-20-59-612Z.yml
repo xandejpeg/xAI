@@ -1,0 +1,219 @@
+- generic [ref=e1]:
+  - generic:
+    - region "Mensagem toast":
+      - heading "0 notificações no total" [level=2] [ref=e3]
+      - alert
+  - region [ref=e4]
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - button "Pular para pesquisa" [ref=e8] [cursor=pointer]:
+        - generic [ref=e9]: Pular para pesquisa
+      - button "Pular para conteúdo principal" [ref=e10] [cursor=pointer]:
+        - generic [ref=e11]: Pular para conteúdo principal
+      - button "Atalhos do teclado" [ref=e12] [cursor=pointer]:
+        - generic [ref=e13]: Atalhos do teclado
+      - button "Fechar menu pular" [ref=e14] [cursor=pointer]:
+        - img [ref=e15]
+        - generic [ref=e17]: Fechar menu pular
+    - banner "Navegação geral" [ref=e18]:
+      - generic [ref=e19]:
+        - link "LinkedIn" [ref=e20] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=e23]:
+            - img [ref=e24]
+        - generic [ref=e28]:
+          - combobox "Pesquisar" [ref=e29]
+          - generic:
+            - img
+        - navigation "Navegação principal" [ref=e30]:
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - link "atualizações do feed novas notificações Início" [ref=e33] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=e34]:
+                  - generic [ref=e37]: atualizações do feed novas notificações
+                  - img [ref=e41]
+                - generic "Início" [ref=e43]
+            - listitem [ref=e44]:
+              - link "Minha rede" [ref=e45] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - img [ref=e49]
+                - generic "Minha rede" [ref=e51]
+            - listitem [ref=e52]:
+              - link "Vagas" [ref=e53] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+                - img [ref=e57]
+                - generic "Vagas" [ref=e59]
+            - listitem [ref=e60]:
+              - link "Mensagens" [ref=e61] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - img [ref=e65]
+                - generic "Mensagens" [ref=e67]
+            - listitem [ref=e68]:
+              - link "Notificações" [ref=e69] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - img [ref=e73]
+                - generic "Notificações" [ref=e75]
+            - listitem [ref=e76]:
+              - button "Alessandro Chiarele Filho Eu" [ref=e78] [cursor=pointer]:
+                - img "Alessandro Chiarele Filho" [ref=e79]
+                - generic [ref=e80]:
+                  - text: Eu
+                  - img [ref=e81]
+            - listitem [ref=e83]:
+              - button "Para negócios" [ref=e85] [cursor=pointer]:
+                - img [ref=e89]
+                - generic "Para negócios" [ref=e91]:
+                  - text: Para negócios
+                  - img [ref=e92]
+            - listitem [ref=e94]:
+              - 'link "Aumente a visibilidade da sua Page: comece com 1 mês grátis" [ref=e96] [cursor=pointer]':
+                - /url: http://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_page_nav_upsell_text%3ACompany+Pages+SKU%3AIn-Product&referenceId=WKeayYNpQaa4jB97QcWOGQ%3D%3D&companyUrn=urn%3Ali%3Afsd_company%3A103197304&isSS=false&upsellSlotId=NAV_SPOTLIGHT&destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fsetup%2Fnew%2F
+                - generic [ref=e98]: "Aumente a visibilidade da sua Page: comece com 1 mês grátis"
+    - generic [ref=e156]:
+      - generic [ref=e158]:
+        - button "Voltar" [ref=e159] [cursor=pointer]:
+          - img [ref=e160]
+          - generic [ref=e162]: Voltar
+        - generic [ref=e163]:
+          - img [ref=e164]:
+            - img [ref=e165]
+          - heading "Comece com alguns detalhes sobre sua empresa." [level=1] [ref=e167]
+      - generic [ref=e168]:
+        - generic [ref=e169]:
+          - generic [ref=e170]: "* indica item obrigatório"
+          - generic [ref=e171]:
+            - generic [ref=e175]:
+              - generic [ref=e176]: Nome*
+              - textbox "Nome*" [ref=e177]:
+                - /placeholder: Adicionar nome da sua organização
+                - text: Avante Hub
+            - generic [ref=e178]:
+              - generic [ref=e181]:
+                - generic [ref=e182]: linkedin.com/company/*
+                - textbox "linkedin.com/company/*" [ref=e183]:
+                  - /placeholder: Adicionar seu endereço do LinkedIn
+                  - text: avante-hub
+              - link "#Saiba mais sobre a URL pública da Page" [ref=e185] [cursor=pointer]:
+                - /url: https://www.linkedin.com/help/linkedin/answer/62467?lang=pt
+            - generic [ref=e189]:
+              - generic [ref=e190]: Site
+              - textbox "Site" [ref=e191]:
+                - /placeholder: Comece com http://, https:// ou www.
+                - text: https://avanteagricola.com
+            - generic [ref=e193]:
+              - generic [ref=e194]: Setor *
+              - generic [ref=e195]:
+                - 'status "6 sugestões encontradas para a consulta de: Tecnologia da informaç. Utilize as teclas para cima e para baixo para navegar" [ref=e252]'
+                - combobox "Setor *" [expanded] [active] [ref=e196]:
+                  - text: Tecnologia da informaç
+                  - listbox [ref=e253]:
+                    - generic [ref=e254]:
+                      - option "Atividades dos serviços de tecnologia da informação" [ref=e255] [cursor=pointer]:
+                        - generic [ref=e258]: Atividades dos serviços de tecnologia da informação
+                      - option "Teste e avaliação de tecnologia da informação" [ref=e259] [cursor=pointer]:
+                        - generic [ref=e262]: Teste e avaliação de tecnologia da informação
+                      - option "Serviços de dados de tecnologia da informação" [ref=e263] [cursor=pointer]:
+                        - generic [ref=e266]: Serviços de dados de tecnologia da informação
+                      - option "Treinamento e suporte em tecnologia da informação" [ref=e267] [cursor=pointer]:
+                        - generic [ref=e270]: Treinamento e suporte em tecnologia da informação
+                      - option "Instalações e descartes de tecnologia da informação" [ref=e271] [cursor=pointer]:
+                        - generic [ref=e274]: Instalações e descartes de tecnologia da informação
+                      - option "Serviços de projeto em tecnologia da informação" [ref=e275] [cursor=pointer]:
+                        - generic [ref=e278]: Serviços de projeto em tecnologia da informação
+            - generic [ref=e198]:
+              - generic [ref=e199]: Tamanho de organização *
+              - generic [ref=e200]: Obrigatório
+              - combobox "Tamanho de organização *" [ref=e201]:
+                - option "Selecionar tamanho" [selected]
+                - option "0–1 funcionários"
+                - option "2–10 funcionários"
+                - option "11–50 funcionários"
+                - option "51–200 funcionários"
+                - option "201–500 funcionários"
+                - option "501–1.000 funcionários"
+                - option "1.001–5.000 funcionários"
+                - option "5.001–10.000 funcionários"
+                - option "+ de 10.000 funcionários"
+            - generic [ref=e203]:
+              - generic [ref=e204]: Tipo de organização *
+              - generic [ref=e205]: Obrigatório
+              - combobox "Tipo de organização *" [ref=e206]:
+                - option "Selecionar tipo" [selected]
+                - option "Empresa de capital aberto"
+                - option "Autônomo"
+                - option "Órgão governamental"
+                - option "ONG"
+                - option "Firma individual"
+                - option "Empresa privada"
+                - option "Sociedade"
+            - generic [ref=e207]:
+              - generic [ref=e208]: Logomarca
+              - generic [ref=e209]:
+                - generic [ref=e210] [cursor=pointer]:
+                  - generic [ref=e211]:
+                    - generic [ref=e212]:
+                      - img [ref=e213]
+                      - paragraph [ref=e215]: Selecione um arquivo
+                    - paragraph [ref=e216]: Faça upload para ver a pré-visualização
+                  - button "Selecione um arquivo Faça upload para ver a pré-visualização" [ref=e217]
+                - paragraph [ref=e218]: Recomendamos 300 x 300 px. Aceitamos JPGs, JPEGs e PNGs
+            - generic [ref=e221]:
+              - generic [ref=e222]:
+                - generic [ref=e223]: Slogan
+                - textbox "Slogan" [ref=e224]:
+                  - /placeholder: "ex.: firma de serviço de informações que ajuda pequenas empresas a prosperar."
+              - paragraph [ref=e225]:
+                - generic [ref=e226]: Use seu slogan para descrever, em poucas palavras, o que sua organização faz. Isso pode ser alterado mais tarde.
+                - generic [ref=e227]: 0/120
+                - generic [ref=e228]: Máximo de 120 caracteres.
+            - generic [ref=e229]:
+              - group [ref=e230]:
+                - generic [ref=e231]:
+                  - checkbox "Declaro que sou representante oficial desta organização e que possuo o direito de agir em nome dela ao criar e gerenciar esta página. Eu e a organização aceitamos os Termos adicionais das Pages."
+                  - generic [ref=e232]: Declaro que sou representante oficial desta organização e que possuo o direito de agir em nome dela ao criar e gerenciar esta página. Eu e a organização aceitamos os Termos adicionais das Pages.
+              - link "Ler os Termos das LinkedIn Pages" [ref=e234] [cursor=pointer]:
+                - /url: https://legal.linkedin.com/linkedin-pages-terms
+          - button "Criar página" [ref=e236] [cursor=pointer]:
+            - generic [ref=e251]: Criar página
+        - generic [ref=e237]:
+          - generic [ref=e238]:
+            - text: Pré-visualização da página
+            - button "Saiba mais sobre a “pré-visualização da página”" [ref=e240] [cursor=pointer]:
+              - img [ref=e241]
+          - generic [ref=e245]:
+            - img "Pré-visualização do logo" [ref=e247]
+            - generic [ref=e248]: Avante Hub
+            - paragraph [ref=e249]: Slogan
+            - paragraph [ref=e250]: Tecnologia da informaç
+            - generic:
+              - img
+              - generic: Seguir
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=e125]:
+            - generic [ref=e126]:
+              - generic [ref=e128] [cursor=pointer]:
+                - generic [ref=e129]:
+                  - img "Alessandro Chiarele Filho" [ref=e130]
+                  - generic [ref=e150]: O status está on-line
+                - button "Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas." [ref=e131]:
+                  - generic [ref=e132]:
+                    - generic [ref=e133]: Mensagens
+                    - generic [ref=e134]: Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas.
+              - generic [ref=e135]:
+                - button "Abrir o menu suspenso de mensagens" [ref=e137] [cursor=pointer]:
+                  - img "Abrir o menu suspenso de mensagens" [ref=e138]
+                - button "Escrever mensagem" [ref=e141] [cursor=pointer]:
+                  - img [ref=e142]
+                  - generic [ref=e144]: Escrever mensagem
+                - button "Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas." [ref=e145] [cursor=pointer]:
+                  - img [ref=e146]
+                  - generic [ref=e148]: Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas.
+            - link "Foto da empresa MORAES DE CARVALHO ADVOGADOS ASSOCIADOS MORAES DE CARVALHO ADVOGADOS ASSOCIADOS" [ref=e151] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/103197304/admin/inbox
+              - img "Foto da empresa MORAES DE CARVALHO ADVOGADOS ASSOCIADOS" [ref=e152]
+              - generic [ref=e153]: MORAES DE CARVALHO ADVOGADOS ASSOCIADOS
+              - img [ref=e154]
+        - complementary "Assistente de IA para obter ajuda com sua carreira, vagas, etc."

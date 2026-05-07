@@ -1,0 +1,208 @@
+- generic [ref=e1]:
+  - generic:
+    - region "Mensagem toast":
+      - heading "0 notificações no total" [level=2] [ref=e3]
+      - alert
+  - region [ref=e4]
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - button "Pular para pesquisa" [ref=e8] [cursor=pointer]:
+        - generic [ref=e9]: Pular para pesquisa
+      - button "Pular para conteúdo principal" [ref=e10] [cursor=pointer]:
+        - generic [ref=e11]: Pular para conteúdo principal
+      - button "Atalhos do teclado" [ref=e12] [cursor=pointer]:
+        - generic [ref=e13]: Atalhos do teclado
+      - button "Fechar menu pular" [ref=e14] [cursor=pointer]:
+        - img [ref=e15]
+        - generic [ref=e17]: Fechar menu pular
+    - banner "Navegação geral" [ref=e18]:
+      - generic [ref=e19]:
+        - link "LinkedIn" [ref=e20] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=e109]:
+            - img [ref=e110]
+        - generic [ref=e28]:
+          - combobox "Pesquisar" [ref=e29]
+          - generic:
+            - img
+        - navigation "Navegação principal" [ref=e30]:
+          - list [ref=e31]:
+            - listitem [ref=e112]:
+              - link "atualizações do feed novas notificações Início" [ref=e113] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=e114]:
+                  - generic [ref=e117]: atualizações do feed novas notificações
+                  - img [ref=e121]
+                - generic "Início" [ref=e123]
+            - listitem [ref=e124]:
+              - link "Minha rede" [ref=e125] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - img [ref=e129]
+                - generic "Minha rede" [ref=e131]
+            - listitem [ref=e132]:
+              - link "Vagas" [ref=e133] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+                - img [ref=e137]
+                - generic "Vagas" [ref=e139]
+            - listitem [ref=e140]:
+              - link "Mensagens" [ref=e141] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - img [ref=e145]
+                - generic "Mensagens" [ref=e147]
+            - listitem [ref=e148]:
+              - link "Notificações" [ref=e149] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - img [ref=e153]
+                - generic "Notificações" [ref=e155]
+            - listitem [ref=e156]:
+              - button "Alessandro Chiarele Filho Eu" [ref=e158] [cursor=pointer]:
+                - img "Alessandro Chiarele Filho" [ref=e159]
+                - generic [ref=e160]:
+                  - text: Eu
+                  - img [ref=e161]
+            - listitem [ref=e163]:
+              - button "Para negócios" [ref=e165] [cursor=pointer]:
+                - img [ref=e169]
+                - generic "Para negócios" [ref=e171]:
+                  - text: Para negócios
+                  - img [ref=e172]
+            - listitem [ref=e174]:
+              - 'link "Aumente a visibilidade da sua Page: comece com 1 mês grátis" [ref=e176] [cursor=pointer]':
+                - /url: http://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_page_nav_upsell_text%3ACompany+Pages+SKU%3AIn-Product&referenceId=szeGvsKLTrO1nebGMYlJIQ%3D%3D&companyUrn=urn%3Ali%3Afsd_company%3A121284138&isSS=false&upsellSlotId=NAV_SPOTLIGHT&destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fsetup%2Fnew%2F
+                - generic [ref=e178]: "Aumente a visibilidade da sua Page: comece com 1 mês grátis"
+    - generic [ref=e179]:
+      - generic [ref=e181]:
+        - button "Voltar" [ref=e182] [cursor=pointer]:
+          - img [ref=e183]
+          - generic [ref=e185]: Voltar
+        - generic [ref=e186]:
+          - img [ref=e187]:
+            - img [ref=e188]
+          - heading "Comece com alguns detalhes sobre sua empresa." [level=1] [ref=e190]
+      - generic [ref=e191]:
+        - generic [ref=e192]:
+          - generic [ref=e193]: "* indica item obrigatório"
+          - generic [ref=e194]:
+            - generic [ref=e198]:
+              - generic [ref=e199]: Nome*
+              - textbox "Nome*" [ref=e200]:
+                - /placeholder: Adicionar nome da sua organização
+                - text: Easy Social
+            - generic [ref=e201]:
+              - generic [ref=e204]:
+                - generic [ref=e205]: linkedin.com/company/*
+                - textbox "linkedin.com/company/*" [ref=e206]:
+                  - /placeholder: Adicionar seu endereço do LinkedIn
+                  - text: easy-social-br
+              - link "#Saiba mais sobre a URL pública da Page" [ref=e208] [cursor=pointer]:
+                - /url: https://www.linkedin.com/help/linkedin/answer/62467?lang=pt
+            - generic [ref=e212]:
+              - generic [ref=e213]: Site
+              - textbox "Site" [ref=e214]:
+                - /placeholder: Comece com http://, https:// ou www.
+                - text: https://easyesocial.com.br
+            - generic [ref=e216]:
+              - generic [ref=e217]: Setor *
+              - combobox "Setor *" [active] [ref=e219]: Desenvolvimento de software
+            - generic [ref=e221]:
+              - generic [ref=e222]: Tamanho de organização *
+              - generic [ref=e223]: Obrigatório
+              - combobox "Tamanho de organização *" [ref=e224]:
+                - option "Selecionar tamanho"
+                - option "0–1 funcionários" [selected]
+                - option "2–10 funcionários"
+                - option "11–50 funcionários"
+                - option "51–200 funcionários"
+                - option "201–500 funcionários"
+                - option "501–1.000 funcionários"
+                - option "1.001–5.000 funcionários"
+                - option "5.001–10.000 funcionários"
+                - option "+ de 10.000 funcionários"
+            - generic [ref=e226]:
+              - generic [ref=e227]: Tipo de organização *
+              - generic [ref=e228]: Obrigatório
+              - combobox "Tipo de organização *" [ref=e229]:
+                - option "Selecionar tipo"
+                - option "Empresa de capital aberto"
+                - option "Autônomo"
+                - option "Órgão governamental"
+                - option "ONG"
+                - option "Firma individual" [selected]
+                - option "Empresa privada"
+                - option "Sociedade"
+            - generic [ref=e230]:
+              - generic [ref=e231]: Logomarca
+              - generic [ref=e232]:
+                - generic [ref=e233] [cursor=pointer]:
+                  - generic [ref=e234]:
+                    - generic [ref=e235]:
+                      - img [ref=e236]
+                      - paragraph [ref=e238]: Selecione um arquivo
+                    - paragraph [ref=e239]: Faça upload para ver a pré-visualização
+                  - button "Selecione um arquivo Faça upload para ver a pré-visualização" [ref=e240]
+                - paragraph [ref=e241]: Recomendamos 300 x 300 px. Aceitamos JPGs, JPEGs e PNGs
+            - generic [ref=e244]:
+              - generic [ref=e245]:
+                - generic [ref=e246]: Slogan
+                - textbox "Slogan" [ref=e247]:
+                  - /placeholder: "ex.: firma de serviço de informações que ajuda pequenas empresas a prosperar."
+                  - text: "Hub eSocial: identifica e resolve inconsistências em lote"
+              - paragraph [ref=e248]:
+                - generic [ref=e249]: Use seu slogan para descrever, em poucas palavras, o que sua organização faz. Isso pode ser alterado mais tarde.
+                - generic [ref=e250]: 57/120
+                - generic [ref=e251]: Máximo de 120 caracteres.
+            - generic [ref=e252]:
+              - group [ref=e253]:
+                - generic [ref=e320]:
+                  - checkbox "Declaro que sou representante oficial desta organização e que possuo o direito de agir em nome dela ao criar e gerenciar esta página. Eu e a organização aceitamos os Termos adicionais das Pages." [checked]
+                  - generic [ref=e321]: Declaro que sou representante oficial desta organização e que possuo o direito de agir em nome dela ao criar e gerenciar esta página. Eu e a organização aceitamos os Termos adicionais das Pages.
+              - link "Ler os Termos das LinkedIn Pages" [ref=e257] [cursor=pointer]:
+                - /url: https://legal.linkedin.com/linkedin-pages-terms
+          - button "Criar página" [ref=e259] [cursor=pointer]:
+            - generic [ref=e319]: Criar página
+          - paragraph [ref=e322]:
+            - alert [ref=e323]:
+              - img [ref=e325]
+              - generic [ref=e327]: Você chegou ao limite de criação de páginas. Aguarde 7 dias para criar mais páginas
+        - generic [ref=e260]:
+          - generic [ref=e261]:
+            - text: Pré-visualização da página
+            - button "Saiba mais sobre a “pré-visualização da página”" [ref=e263] [cursor=pointer]:
+              - img [ref=e264]
+          - generic [ref=e268]:
+            - img "Pré-visualização do logo" [ref=e270]
+            - generic [ref=e271]: Easy Social
+            - paragraph [ref=e272]: "Hub eSocial: identifica e resolve inconsistências em lote"
+            - paragraph [ref=e273]: Desenvolvimento de software
+            - generic:
+              - img
+              - generic: Seguir
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=e274]:
+            - generic [ref=e275]:
+              - generic [ref=e277] [cursor=pointer]:
+                - generic [ref=e278]:
+                  - img "Alessandro Chiarele Filho" [ref=e279]
+                  - generic [ref=e281]: O status está on-line
+                - button "Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas." [ref=e282]:
+                  - generic [ref=e283]:
+                    - generic [ref=e284]: Mensagens
+                    - generic [ref=e285]: Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas.
+              - generic [ref=e286]:
+                - button "Abrir o menu suspenso de mensagens" [ref=e288] [cursor=pointer]:
+                  - img "Abrir o menu suspenso de mensagens" [ref=e289]
+                - button "Escrever mensagem" [ref=e292] [cursor=pointer]:
+                  - img [ref=e293]
+                  - generic [ref=e295]: Escrever mensagem
+                - button "Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas." [ref=e296] [cursor=pointer]:
+                  - img [ref=e297]
+                  - generic [ref=e299]: Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas.
+            - generic [ref=e300]:
+              - heading "Caixas de entrada da página" [level=3] [ref=e302]
+              - generic [ref=e303] [cursor=pointer]:
+                - generic [ref=e304]: Clique para ver as caixas de entrada afiliadas
+                - button "Caixas de entrada da página" [ref=e305]:
+                  - img [ref=e306]
+        - complementary "Assistente de IA para obter ajuda com sua carreira, vagas, etc."

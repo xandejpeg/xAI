@@ -1,0 +1,87 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - region "Mensagem toast":
+      - heading "0 notificações no total" [level=2] [ref=e3]
+      - alert
+  - region [ref=e4]
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - button "Pular para pesquisa" [ref=e8] [cursor=pointer]:
+        - generic [ref=e9]: Pular para pesquisa
+      - button "Pular para conteúdo principal" [ref=e10] [cursor=pointer]:
+        - generic [ref=e11]: Pular para conteúdo principal
+      - button "Atalhos do teclado" [ref=e12] [cursor=pointer]:
+        - generic [ref=e13]: Atalhos do teclado
+      - button "Fechar menu pular" [ref=e14] [cursor=pointer]:
+        - img [ref=e15]
+        - generic [ref=e17]: Fechar menu pular
+    - banner "Navegação geral" [ref=e18]:
+      - generic [ref=e19]:
+        - link "LinkedIn" [ref=e20] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=e23]:
+            - img [ref=e24]
+        - generic [ref=e28]:
+          - combobox "Pesquisar" [ref=e29]
+          - generic:
+            - img
+        - navigation "Navegação principal" [ref=e30]:
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - link "atualizações do feed novas notificações Início" [ref=e33] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=e34]:
+                  - generic [ref=e37]: atualizações do feed novas notificações
+                  - img [ref=e41]
+                - generic "Início" [ref=e43]
+            - listitem [ref=e44]:
+              - link "Minha rede" [ref=e45] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - img [ref=e49]
+                - generic "Minha rede" [ref=e51]
+            - listitem [ref=e52]:
+              - link "Vagas" [ref=e53] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+                - img [ref=e57]
+                - generic "Vagas" [ref=e59]
+            - listitem [ref=e60]:
+              - link "Mensagens" [ref=e61] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - img [ref=e65]
+                - generic "Mensagens" [ref=e67]
+            - listitem [ref=e68]:
+              - link "Notificações" [ref=e69] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?filter=all&
+                - img [ref=e73]
+                - generic "Notificações" [ref=e75]
+            - listitem [ref=e76]:
+              - 'button "{:memberName} Eu" [ref=e78] [cursor=pointer]':
+                - 'img "{:memberName}" [ref=e79]'
+                - generic [ref=e80]:
+                  - text: Eu
+                  - img [ref=e81]
+    - main [ref=e84]:
+      - heading "Crie uma LinkedIn Page" [level=1] [ref=e85]
+      - paragraph [ref=e86]: Conecte-se com clientes, funcionários e com a comunidade do LinkedIn. Para começar, selecione um tipo de página.
+      - generic [ref=e87]:
+        - button "Empresa Pequenas, médias e grandes empresas" [ref=e88] [cursor=pointer]:
+          - img [ref=e89]:
+            - img [ref=e90]
+          - generic [ref=e92]: Empresa
+          - generic [ref=e93]: Pequenas, médias e grandes empresas
+        - button "Showcase Page Páginas secundárias associadas a uma página existente" [ref=e94] [cursor=pointer]:
+          - img [ref=e95]:
+            - img [ref=e96]
+          - generic [ref=e98]: Showcase Page
+          - generic [ref=e99]: Páginas secundárias associadas a uma página existente
+        - button "Instituição de ensino Escolas, faculdades e universidades" [ref=e100] [cursor=pointer]:
+          - img [ref=e101]:
+            - img [ref=e102]
+          - generic [ref=e104]: Instituição de ensino
+          - generic [ref=e105]: Escolas, faculdades e universidades
+      - generic [ref=e106]:
+        - img [ref=e107]
+        - img [ref=e108]
+    - generic:
+      - generic:
+        - complementary "Assistente de IA para obter ajuda com sua carreira, vagas, etc."

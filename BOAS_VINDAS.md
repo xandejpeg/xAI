@@ -16,9 +16,9 @@ Além do trabalho no escritório, Alessandro é fundador e engenheiro responsáv
 
 Perfil técnico consolidado:
 - eSocial: envio real de eventos trabalhistas (S-2500, S-2501, S-2555, S-1200, S-1210, S-5001, S-5002, S-5003) via SOAP com certificado digital A1
-- Automação de folha de pagamento e inteligência de rubricas
-- Integração com e-CAC, SERPRO, Datajud/CNJ
-- Stack principal: Python/FastAPI, React, TypeScript, PostgreSQL, Node.js
+- Resolução massiva de problemas eSocial em lote (não apenas envio)
+- Integração com e-CAC, SERPRO, Datajud/CNJ para respaldo cruzado
+- Stack principal: Python/FastAPI, Vue 3, React, TypeScript, PostgreSQL, Node.js
 - Formação: Engenharia da Computação — FIAP (2020–2025)
 
 ---
@@ -40,7 +40,7 @@ Firma boutique de advocacia tributária, previdenciária e trabalhista, liderada
 ## Sistemas em produção (resumo)
 
 ### Easy Social
-Sistema de automação de folha de pagamento integrado ao eSocial. Foco em inteligência de rubricas, envio automatizado de eventos periódicos (S-1200, S-1210), monitoramento de folha e consulta via e-CAC. Testado em ambiente real com 12.000 funcionários. Clientes pagantes ativos. Redução de até 2.000% no tempo de adequação de rubricas.
+Sistema de **resolução massiva de problemas eSocial em lote**. Não é "um sistema que envia eSocial" — é um pipeline industrial que identifica, classifica semanticamente, corrige e reenvia em massa eventos S-1210 (com extensão para outros eventos periódicos). Stack: FastAPI + Vue 3 + Vite + TypeScript + PostgreSQL/Supabase. SOAP com cert A1, ThreadPoolExecutor para paralelismo (~115 CPFs/min). Respaldo cruzado com e-CAC, SERPRO, Datajud. Volume de produção: ~120.000 eventos/ano por empresa cliente. Cliente referência: 12.000 funcionários. Frase-síntese: *"Concorrentes mostram o erro. Easy Social resolve."*
 
 ### RealPrev
 Sistema de envio de eventos trabalhistas ao governo federal (S-2500, S-2501, S-2555). Fluxo completo: cadastro do processo, geração e assinatura digital de XML, transmissão SOAP, rastreabilidade de retorno. Em produção no Moraes de Carvalho. Registro INPI em preparação.

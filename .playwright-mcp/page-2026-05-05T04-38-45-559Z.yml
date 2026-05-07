@@ -1,0 +1,114 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - region "Mensagem toast":
+      - heading "0 notificações no total" [level=2] [ref=e3]
+      - alert
+  - region [ref=e4]
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - button "Pular para pesquisa" [ref=e8] [cursor=pointer]:
+        - generic [ref=e9]: Pular para pesquisa
+      - button "Pular para conteúdo principal" [ref=e10] [cursor=pointer]:
+        - generic [ref=e11]: Pular para conteúdo principal
+      - button "Atalhos do teclado" [ref=e12] [cursor=pointer]:
+        - generic [ref=e13]: Atalhos do teclado
+      - button "Fechar menu pular" [ref=e14] [cursor=pointer]:
+        - img [ref=e15]
+        - generic [ref=e17]: Fechar menu pular
+    - banner "Navegação geral" [ref=e18]:
+      - generic [ref=e19]:
+        - link "LinkedIn" [ref=e20] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=e23]:
+            - img [ref=e24]
+        - generic [ref=e28]:
+          - combobox "Pesquisar" [ref=e29]
+          - generic:
+            - img
+        - navigation "Navegação principal" [ref=e30]:
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - link "atualizações do feed novas notificações Início" [ref=e33] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=e34]:
+                  - generic [ref=e37]: atualizações do feed novas notificações
+                  - img [ref=e41]
+                - generic "Início" [ref=e43]
+            - listitem [ref=e44]:
+              - link "Minha rede" [ref=e45] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - img [ref=e49]
+                - generic "Minha rede" [ref=e51]
+            - listitem [ref=e52]:
+              - link "Vagas" [ref=e53] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+                - img [ref=e57]
+                - generic "Vagas" [ref=e59]
+            - listitem [ref=e60]:
+              - link "Mensagens" [ref=e61] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - img [ref=e65]
+                - generic "Mensagens" [ref=e67]
+            - listitem [ref=e68]:
+              - link "Notificações" [ref=e69] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - img [ref=e73]
+                - generic "Notificações" [ref=e75]
+            - listitem [ref=e76]:
+              - button "Alessandro Chiarele Filho Eu" [ref=e78] [cursor=pointer]:
+                - img "Alessandro Chiarele Filho" [ref=e79]
+                - generic [ref=e80]:
+                  - text: Eu
+                  - img [ref=e81]
+            - listitem [ref=e83]:
+              - button "Para negócios" [ref=e85] [cursor=pointer]:
+                - img [ref=e89]
+                - generic "Para negócios" [ref=e91]:
+                  - text: Para negócios
+                  - img [ref=e92]
+            - listitem [ref=e94]:
+              - 'link "Aumente a visibilidade da sua Page: comece com 1 mês grátis" [ref=e96] [cursor=pointer]':
+                - /url: http://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_page_nav_upsell_text%3ACompany+Pages+SKU%3AIn-Product&referenceId=WKeayYNpQaa4jB97QcWOGQ%3D%3D&companyUrn=urn%3Ali%3Afsd_company%3A103197304&isSS=false&upsellSlotId=NAV_SPOTLIGHT&destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fsetup%2Fnew%2F
+                - generic [ref=e98]: "Aumente a visibilidade da sua Page: comece com 1 mês grátis"
+    - main [ref=e100]:
+      - heading "Crie uma LinkedIn Page" [level=1] [ref=e101]
+      - paragraph [ref=e102]: Conecte-se com clientes, funcionários e com a comunidade do LinkedIn. Para começar, selecione um tipo de página.
+      - generic [ref=e103]:
+        - button "Empresa Pequenas, médias e grandes empresas" [ref=e104] [cursor=pointer]:
+          - img [ref=e105]:
+            - img [ref=e106]
+          - generic [ref=e108]: Empresa
+          - generic [ref=e109]: Pequenas, médias e grandes empresas
+        - button "Showcase Page Páginas secundárias associadas a uma página existente" [ref=e110] [cursor=pointer]:
+          - img [ref=e111]:
+            - img [ref=e112]
+          - generic [ref=e114]: Showcase Page
+          - generic [ref=e115]: Páginas secundárias associadas a uma página existente
+        - button "Instituição de ensino Escolas, faculdades e universidades" [ref=e116] [cursor=pointer]:
+          - img [ref=e117]:
+            - img [ref=e118]
+          - generic [ref=e120]: Instituição de ensino
+          - generic [ref=e121]: Escolas, faculdades e universidades
+      - generic [ref=e122]:
+        - img [ref=e123]
+        - img [ref=e124]
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=e126]:
+            - generic [ref=e128] [cursor=pointer]:
+              - img "Alessandro Chiarele Filho" [ref=e130]
+              - button "Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas." [ref=e131]:
+                - generic [ref=e132]:
+                  - generic [ref=e133]: Mensagens
+                  - generic [ref=e134]: Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas.
+            - generic [ref=e135]:
+              - button "Abrir o menu suspenso de mensagens" [ref=e137] [cursor=pointer]:
+                - img "Abrir o menu suspenso de mensagens" [ref=e138]
+              - button "Escrever mensagem" [ref=e141] [cursor=pointer]:
+                - img [ref=e142]
+                - generic [ref=e144]: Escrever mensagem
+              - button "Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas." [ref=e145] [cursor=pointer]:
+                - img [ref=e146]
+                - generic [ref=e148]: Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas.
+        - complementary "Assistente de IA para obter ajuda com sua carreira, vagas, etc."

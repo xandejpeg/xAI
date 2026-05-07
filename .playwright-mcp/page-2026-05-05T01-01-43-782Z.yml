@@ -1,0 +1,1789 @@
+- generic [ref=e2]:
+  - heading "0 notificação" [level=2] [ref=e330]
+  - dialog "Editar introdução" [active] [ref=e331]:
+    - button "Fechar" [ref=e332] [cursor=pointer]:
+      - img [ref=e334]
+    - generic [ref=e336]:
+      - banner [ref=e337]:
+        - heading "Editar introdução" [level=2] [ref=e338]
+      - main [ref=e340]:
+        - generic [ref=e341]:
+          - generic [ref=e342]:
+            - generic [ref=e344]:
+              - generic [ref=e347]:
+                - generic [ref=e348]:
+                  - img [ref=e349]
+                  - paragraph [ref=e352]: Aprimore seu perfil com uma conta Premium
+                - paragraph [ref=e353]: Destaque mais acima as seções do perfil, adicione um botão personalizado, receba assistência de redação por IA e muito mais.
+                - generic [ref=e354]:
+                  - figure [ref=e355]
+                  - figure [ref=e356]
+                  - figure [ref=e357]
+                  - paragraph [ref=e358]: Agnes e outros milhões de usuários têm contas Premium
+                - link "Experimente Premium novamente por R$ 0" [ref=e359] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_profile_top_card_custom_enhance_free_upsell%3AProfile%3AIn-Product&utype=profile_cust_custom_button&referenceId=r9hKqpQvSKCmX7t7Q4%2FvXQ%3D%3D&isSS=false&upsellSlotId=PREMIUM_PROFILE_TOP_CARD_CUSTOM_ENHANCE
+                  - generic [ref=e361]: Experimente Premium novamente por R$ 0
+                - paragraph [ref=e362]: Demonstração gratuita por 1 mês. Cancele quando quiser. Lembraremos você 7 dias antes do término da demonstração.
+              - button "Ocultar vendas adicionais Premium" [ref=e363] [cursor=pointer]:
+                - img [ref=e365]
+            - paragraph [ref=e368]: "* Indica item obrigatório"
+            - generic [ref=e369]:
+              - paragraph [ref=e370]: Informações básicas
+              - generic [ref=e372]:
+                - generic [ref=e374]: Nome*
+                - textbox "Nome*" [ref=e376]: Alessandro
+                - paragraph [ref=e378]:
+                  - text: 10/50
+                  - generic [ref=e379]: 10 of 50 characters
+            - generic [ref=e381]:
+              - generic [ref=e383]: Sobrenome*
+              - textbox "Sobrenome*" [ref=e385]: Chiarele Filho
+              - paragraph [ref=e387]:
+                - text: 14/50
+                - generic [ref=e388]: 14 of 50 characters
+            - generic [ref=e391]:
+              - generic [ref=e393]: Nome alternativo ou apelido
+              - textbox "Nome alternativo ou apelido" [ref=e395]
+              - paragraph [ref=e397]:
+                - text: 0/50
+                - generic [ref=e398]: 0 of 50 characters
+            - generic [ref=e399]:
+              - paragraph [ref=e400]: Pronúncia do nome
+              - generic [ref=e401]:
+                - img [ref=e402]
+                - paragraph [ref=e404]: Isso só pode ser adicionado no nosso aplicativo
+            - generic [ref=e405]:
+              - paragraph [ref=e406]:
+                - text: Saiba mais sobre
+                - link "pronomes de gênero" [ref=e407] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/help/linkedin/answer/129291/
+                  - strong [ref=e408]: pronomes de gênero
+                - text: .
+              - generic [ref=e410]:
+                - generic [ref=e412]: Pronomes*
+                - textbox "Pronomes*" [ref=e414]
+                - generic [ref=e415]:
+                  - paragraph [ref=e416]: Informe a outras pessoas como elas devem se referir a você.
+                  - paragraph [ref=e417]:
+                    - text: 0/25
+                    - generic [ref=e418]: 0 of 25 characters
+            - generic [ref=e419]:
+              - paragraph [ref=e420]: Título*
+              - generic [ref=e422]:
+                - textbox [ref=e425]:
+                  - paragraph [ref=e426]: Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL
+                - generic [ref=e427]:
+                  - img [ref=e428]
+                  - button "Receba sugestões de IA" [ref=e431] [cursor=pointer]:
+                    - paragraph [ref=e432]: Receba sugestões de IA
+                  - paragraph [ref=e433]: com Premium
+              - paragraph [ref=e438]: 135 de 220
+            - generic [ref=e439]:
+              - paragraph [ref=e440]: Cargo atual
+              - generic [ref=e443]:
+                - generic [ref=e445]: Cargo*
+                - generic [ref=e446]:
+                  - combobox "Cargo*" [ref=e447] [cursor=pointer]:
+                    - option "Selecione" [disabled]
+                    - option "Júnior em desenvolvimento de sistemas da empresa MORAES DE CARVALHO ADVOGADOS ASSOCIADOS" [selected]
+                  - img
+              - link "Adicionar novo cargo" [ref=e449] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/forms/position/new/?profileFormEntryPoint=IntroForm
+                - generic [ref=e450]:
+                  - img [ref=e451]
+                  - generic [ref=e453]: Adicionar novo cargo
+              - checkbox "Exibir a empresa atual na minha introdução" [checked] [ref=e454] [cursor=pointer]:
+                - generic [ref=e455]:
+                  - generic [ref=e456]:
+                    - checkbox [checked]
+                    - img
+                  - paragraph [ref=e459]: Exibir a empresa atual na minha introdução
+              - generic [ref=e460]:
+                - generic [ref=e461]:
+                  - status [ref=e462]
+                  - generic [ref=e463]:
+                    - generic [ref=e465]: Setor*
+                    - generic [ref=e466]:
+                      - img [ref=e468]
+                      - textbox "Setor*" [ref=e470]: Desenvolvimento de software
+                - paragraph [ref=e471]:
+                  - text: Saiba mais sobre
+                  - link "opções de setor" [ref=e472] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/a720019/
+                    - strong [ref=e473]: opções de setor
+                  - text: .
+            - generic [ref=e474]:
+              - paragraph [ref=e475]: Formação acadêmica
+              - generic [ref=e478]:
+                - generic [ref=e480]: Instituição de ensino*
+                - generic [ref=e481]:
+                  - combobox "Instituição de ensino*" [ref=e482] [cursor=pointer]:
+                    - option "Selecione" [disabled]
+                    - option "FIAP" [selected]
+                    - option "FIAP"
+                  - img
+              - link "Adicionar nova formação acadêmica" [ref=e484] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/forms/education/new/
+                - generic [ref=e485]:
+                  - img [ref=e486]
+                  - generic [ref=e488]: Adicionar nova formação acadêmica
+              - checkbox "Exibir instituição de ensino na minha introdução" [checked] [ref=e489] [cursor=pointer]:
+                - generic [ref=e490]:
+                  - generic [ref=e491]:
+                    - checkbox [checked]
+                    - img
+                  - paragraph [ref=e494]: Exibir instituição de ensino na minha introdução
+            - generic [ref=e495]:
+              - paragraph [ref=e496]: Localidade
+              - generic [ref=e497]:
+                - status [ref=e498]
+                - generic [ref=e499]:
+                  - generic [ref=e501]: País/região*
+                  - generic [ref=e502]:
+                    - img [ref=e504]
+                    - textbox "País/região*" [ref=e506]: Brasil
+            - generic [ref=e507]:
+              - status [ref=e508]
+              - generic [ref=e509]:
+                - generic [ref=e511]: Cidade
+                - textbox "Cidade" [ref=e513]: 01101-000, São Paulo, São Paulo, Brasil
+            - generic [ref=e514]:
+              - paragraph [ref=e515]: Informações de contato
+              - paragraph [ref=e516]: Adicione ou altere a URL do seu perfil, o e-mail e muito mais
+              - link "Editar informações de contato" [ref=e518] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/forms/contact-info/new/
+                - generic [ref=e520]: Editar informações de contato
+          - button "Salvar" [ref=e522] [cursor=pointer]:
+            - generic [ref=e524]: Salvar
+  - generic [ref=e525]:
+    - generic:
+      - button [ref=e526] [cursor=pointer]:
+        - generic [ref=e528]: Pular para conteúdo principal
+      - button [ref=e529] [cursor=pointer]:
+        - img [ref=e531]
+    - generic [ref=e533]:
+      - banner [ref=e535]:
+        - generic [ref=e538]:
+          - button "LinkedIn" [ref=e539] [cursor=pointer]:
+            - img "LinkedIn" [ref=e540]
+          - generic [ref=e542]:
+            - status [ref=e543]
+            - search [ref=e544]:
+              - generic [ref=e545]:
+                - img [ref=e547]
+                - textbox "Pesquisar" [ref=e549]
+          - generic [ref=e551]:
+            - figure [ref=e556]
+            - navigation [ref=e559]:
+              - list [ref=e560]:
+                - listitem [ref=e561]:
+                  - button "Início, 1 nova notificação" [ref=e562] [cursor=pointer]:
+                    - img [ref=e564]
+                    - generic [ref=e567]: Início
+                - listitem [ref=e568]:
+                  - link "Minha rede1 nova notificação" [ref=e569] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - generic [ref=e570]:
+                      - img [ref=e571]
+                      - generic [ref=e573]: "1"
+                    - generic [ref=e574]: Minha rede
+                - listitem [ref=e575]:
+                  - link "Vagas, 0 nova notificação" [ref=e576] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - img [ref=e578]
+                    - generic [ref=e580]: Vagas
+                - listitem [ref=e581]:
+                  - link "Mensagens, 0 nova notificação" [ref=e582] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - img [ref=e584]
+                    - generic [ref=e586]: Mensagens
+                - listitem [ref=e587]:
+                  - link "Notificações, 1 nova notificação" [ref=e588] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - generic [ref=e589]:
+                      - img [ref=e590]
+                      - generic [ref=e592]: "1"
+                    - generic [ref=e593]: Notificações
+                - listitem [ref=e594]:
+                  - button "Eu" [ref=e595] [cursor=pointer]:
+                    - figure [ref=e597]
+                    - generic [ref=e598]:
+                      - text: Eu
+                      - img [ref=e599]
+            - generic [ref=e602]:
+              - navigation [ref=e603]:
+                - list [ref=e604]:
+                  - listitem [ref=e605]:
+                    - button "Para negócios" [ref=e606] [cursor=pointer]:
+                      - img [ref=e608]
+                      - generic [ref=e610]:
+                        - text: Para negócios
+                        - img [ref=e611]
+              - 'link "Aumente a visibilidade da sua Page: comece com 1 mês grátis" [ref=e615] [cursor=pointer]':
+                - /url: https://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_page_nav_upsell_text%3ACompany+Pages+SKU%3AIn-Product&referenceId=UWzj2CWKSa%2BLeYtR5Hwb%2FA%3D%3D&companyUrn=urn%3Ali%3Afsd_company%3A103197304&isSS=false&upsellSlotId=NAV_SPOTLIGHT
+                - paragraph [ref=e617]:
+                  - 'link "Aumente a visibilidade da sua Page: comece com 1 mês grátis" [ref=e618]':
+                    - /url: https://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_page_nav_upsell_text%3ACompany+Pages+SKU%3AIn-Product&referenceId=UWzj2CWKSa%2BLeYtR5Hwb%2FA%3D%3D&companyUrn=urn%3Ali%3Afsd_company%3A103197304&isSS=false&upsellSlotId=NAV_SPOTLIGHT
+      - main [ref=e619]:
+        - generic [ref=e620]:
+          - toolbar [ref=e621]:
+            - generic [ref=e625]:
+              - link "Alessandro Chiarele Filho" [ref=e626] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                - generic "Alessandro Chiarele Filho" [ref=e627]:
+                  - figure [ref=e628]
+                  - generic [ref=e629]:
+                    - paragraph [ref=e630]: Alessandro Chiarele Filho
+                    - paragraph [ref=e632]: Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL
+              - generic [ref=e633]:
+                - button "Recursos" [ref=e635] [cursor=pointer]:
+                  - generic [ref=e637]: Recursos
+                - button "Aprimorar perfil" [ref=e639] [cursor=pointer]:
+                  - generic [ref=e641]: Aprimorar perfil
+                - link "Adicionar seção" [ref=e642] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                  - generic [ref=e644]: Adicionar seção
+                - button "Disponível para" [ref=e646] [cursor=pointer]:
+                  - generic [ref=e648]: Disponível para
+          - main [ref=e649]:
+            - generic [ref=e651]:
+              - generic [ref=e654]:
+                - generic [ref=e659]:
+                  - generic [ref=e660]:
+                    - generic [ref=e661]:
+                      - link [ref=e663] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/overlay/background-photo/
+                        - figure [ref=e664]:
+                          - img "Foto de capa" [ref=e665]
+                      - button "Adicionar imagem de fundo" [ref=e674] [cursor=pointer]:
+                        - img [ref=e676]
+                    - link "Foto do perfil" [ref=e678] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                      - generic "Foto do perfil" [ref=e679]:
+                        - figure [ref=e680]
+                    - link "Editar perfil" [ref=e682] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro/
+                      - img [ref=e684]
+                  - generic [ref=e686]:
+                    - generic [ref=e687]:
+                      - generic [ref=e689]:
+                        - generic [ref=e690]:
+                          - link "Alessandro Chiarele Filho" [ref=e692] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                            - heading "Alessandro Chiarele Filho" [level=2] [ref=e694]
+                          - link "Adicionar selo de verificação" [ref=e697] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/trust/verification/?isDeepLinkToCCT=true&verificationUrl=https%3A%2F%2Fwww.linkedin.com%2Fverify%2F%3FentryPoint%3Dselfview_topcard
+                            - generic [ref=e698]:
+                              - img [ref=e699]
+                              - paragraph [ref=e701]: Adicionar selo de verificação
+                        - paragraph [ref=e702]: Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL
+                        - generic [ref=e703]:
+                          - paragraph [ref=e704]: São Paulo, São Paulo, Brasil
+                          - paragraph [ref=e705]: ·
+                          - paragraph [ref=e706]:
+                            - link "Dados de contato" [ref=e707] [cursor=pointer]:
+                              - /url: "#"
+                      - generic [ref=e709]:
+                        - button "MORAES DE CARVALHO ADVOGADOS ASSOCIADOS" [ref=e710] [cursor=pointer]:
+                          - generic [ref=e711]:
+                            - figure [ref=e712]
+                            - paragraph [ref=e716]: MORAES DE CARVALHO ADVOGADOS ASSOCIADOS
+                        - button "FIAP" [ref=e717] [cursor=pointer]:
+                          - generic [ref=e718]:
+                            - figure [ref=e719]
+                            - paragraph [ref=e723]: FIAP
+                    - link "49 conexões" [ref=e725] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/mynetwork/invite-connect/connections/
+                      - paragraph [ref=e726]: 49 conexões
+                    - generic [ref=e730]:
+                      - button "Disponível para" [ref=e732] [cursor=pointer]:
+                        - generic [ref=e734]: Disponível para
+                      - link "Adicionar seção" [ref=e735] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                        - generic [ref=e737]: Adicionar seção
+                      - button "Aprimorar perfil" [ref=e739] [cursor=pointer]:
+                        - generic [ref=e741]: Aprimorar perfil
+                      - button "Recursos" [ref=e743] [cursor=pointer]:
+                        - generic [ref=e745]: Recursos
+                  - list [ref=e750]:
+                    - listitem [ref=e751]:
+                      - generic [ref=e752]:
+                        - link "Buscando emprego São Paulo, SP | Presencial · Híbrido Exibir detalhes" [ref=e753] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                          - generic [ref=e754]:
+                            - paragraph [ref=e756]:
+                              - strong [ref=e757]: Buscando emprego
+                            - paragraph [ref=e759]: São Paulo, SP | Presencial · Híbrido
+                            - paragraph [ref=e761]: Exibir detalhes
+                        - link "Editar" [ref=e762] [cursor=pointer]:
+                          - /url: /in/alessandro-chiarele-filho-26497b1a7/opportunities/job-opportunities/edit/?origin=PROFILE_TOP_CARD
+                          - img [ref=e764]
+                - generic [ref=e768]:
+                  - generic [ref=e771]:
+                    - generic [ref=e773]:
+                      - heading "Análise" [level=2] [ref=e774]
+                      - generic [ref=e775]:
+                        - img [ref=e776]
+                        - paragraph [ref=e778]: Exibido apenas a você
+                    - generic [ref=e779]:
+                      - generic [ref=e782]:
+                        - link "13 visualizações do perfil Saiba quem viu seu perfil." [ref=e783] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/analytics/profile-views/
+                          - generic [ref=e784]:
+                            - img [ref=e785]
+                            - generic [ref=e787]:
+                              - paragraph [ref=e788]: 13 visualizações do perfil
+                              - paragraph [ref=e789]: Saiba quem viu seu perfil.
+                        - link "11 Impressões da publicação Confira quem está interagindo com suas publicações. Últimos 7 dias" [ref=e790] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/analytics/creator/content/?timeRange=past_7_days&dimension=INDUSTRY&metricType=IMPRESSIONS
+                          - generic [ref=e791]:
+                            - img [ref=e792]
+                            - generic [ref=e794]:
+                              - paragraph [ref=e795]: 11 Impressões da publicação
+                              - paragraph [ref=e796]: Confira quem está interagindo com suas publicações.
+                              - paragraph [ref=e797]: Últimos 7 dias
+                        - link "1 ocorrência em resultados de pesquisa Veja a frequência com que seu perfil é exibido em resultados de pesquisa." [ref=e798] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/analytics/search-appearances/
+                          - generic [ref=e799]:
+                            - img [ref=e800]
+                            - generic [ref=e802]:
+                              - paragraph [ref=e803]: 1 ocorrência em resultados de pesquisa
+                              - paragraph [ref=e804]: Veja a frequência com que seu perfil é exibido em resultados de pesquisa.
+                      - link "Exibir todas as análises" [ref=e806] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/dashboard/
+                        - generic [ref=e807]:
+                          - img [ref=e808]
+                          - generic [ref=e810]: Exibir tudo
+                  - generic [ref=e815]:
+                    - generic [ref=e816]:
+                      - heading "Sobre" [level=2] [ref=e817]
+                      - link "Editar sobre" [ref=e819] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/forms/summary/new/
+                        - img [ref=e821]
+                    - paragraph [ref=e824]:
+                      - generic [ref=e825]:
+                        - text: "Product Engineer — construo produtos usando lógica de engenharia para especificar requisitos, arquitetar sistemas e entregar soluções completas em produção. Fundador da Avante Hub — plataforma de gestão agrícola com coleta padronizada de solo, cotações em tempo real e controle de qualidade para produtores e lojistas. Co-fundador do RealPrev — sistema de envio de eventos trabalhistas (eSocial S-2500/S-2501/S-2555) ao governo federal via SOAP com certificado digital A1. Stack: TypeScript, React, Next.js, React Native, Python/FastAPI, Node.js/Express, PostgreSQL, Supabase, Solidity, Solana/Anchor, MQL5, Three.js/R3F, Docker, Playwright. Engenharia da Computação — FIAP. Aberto a oportunidades em Produto e Product Engineering"
+                        - button:
+                          - generic [ref=e827] [cursor=pointer]: … mais
+                  - generic [ref=e832]:
+                    - generic [ref=e833]:
+                      - heading "Serviços" [level=2] [ref=e834]
+                      - link "Editar serviços" [ref=e836] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/opportunities/services/edit/
+                        - img [ref=e838]
+                    - generic [ref=e840]:
+                      - generic [ref=e843]:
+                        - paragraph [ref=e844]: Desenvolvimento de banco de dados
+                        - paragraph [ref=e845]: Cibersegurança
+                        - paragraph [ref=e846]: Segurança da informação
+                        - paragraph [ref=e847]: Relatórios de dados
+                      - link "Exibir todos os serviços" [ref=e849] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/services/page/195984323a60605417/
+                        - generic [ref=e850]:
+                          - img [ref=e851]
+                          - generic [ref=e853]: Exibir tudo
+                  - generic [ref=e858]:
+                    - generic [ref=e859]:
+                      - heading "Em destaque" [level=2] [ref=e860]
+                      - generic [ref=e861]:
+                        - button "Menu de estouro em destaque" [ref=e862] [cursor=pointer]:
+                          - img [ref=e864]
+                        - link "Visualizar tela de detalhes em destaque" [ref=e866] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/details/featured/
+                          - img [ref=e868]
+                    - generic [ref=e871]:
+                      - list [ref=e873]:
+                        - listitem [ref=e874]:
+                          - listitem [ref=e875]:
+                            - link "Conteúdo de mídia 91494167391babd193b67b5876a0d0b0 (1).png criptografia é um pilar da privacidade" [ref=e878] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/overlay/1635454482701/single-media-viewer/?profileId=ACoAADBgHqwBaf448Wzr6ifqDwdeHJnDkK-vX5E
+                              - generic [ref=e879]:
+                                - button "Conteúdo de mídia" [ref=e880]
+                                - generic [ref=e881]:
+                                  - figure [ref=e883]
+                                  - generic [ref=e884]:
+                                    - paragraph [ref=e886]: 91494167391babd193b67b5876a0d0b0 (1).png
+                                    - paragraph [ref=e888]: criptografia é um pilar da privacidade
+                        - listitem [ref=e889]:
+                          - listitem [ref=e890]:
+                            - link "Publicar 1 reação · 1 comentário" [ref=e893] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/feed/update/urn:li:activity:6682133207833444352/
+                              - generic [ref=e894]:
+                                - button "Publicar" [ref=e895]
+                                - figure [ref=e897]:
+                                  - img "a close up of text on a white background" [ref=e898]
+                                - generic [ref=e899]:
+                                  - img [ref=e900]
+                                  - paragraph [ref=e905]:
+                                    - generic [ref=e906]: 1 reação · 1 comentário
+                                    - text: 1 · 1 comentário
+                        - listitem [ref=e907]:
+                          - listitem [ref=e908]:
+                            - link "Publicar 1 reação" [ref=e911] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/feed/update/urn:li:activity:6784696203062874112/
+                              - generic [ref=e912]:
+                                - button "Publicar" [ref=e913]
+                                - figure [ref=e915]
+                                - generic [ref=e916]:
+                                  - img [ref=e917]
+                                  - paragraph [ref=e922]:
+                                    - generic [ref=e923]: 1 reação
+                                    - text: "1"
+                        - listitem [ref=e924]:
+                          - listitem [ref=e925]:
+                            - link "Publicar" [ref=e928] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/feed/update/urn:li:activity:6784696570525835264/
+                              - generic [ref=e929]:
+                                - button "Publicar" [ref=e930]
+                                - figure [ref=e932]
+                      - button "Avançar" [ref=e933] [cursor=pointer]:
+                        - img [ref=e935]
+                - generic [ref=e942]:
+                  - generic [ref=e943]:
+                    - generic [ref=e944]:
+                      - heading "Atividades" [level=2] [ref=e945]
+                      - link "50 seguidores" [ref=e947] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/feed/followers/
+                        - paragraph [ref=e948]: 50 seguidores
+                    - generic [ref=e949]:
+                      - link "Criar publicação" [ref=e950] [cursor=pointer]:
+                        - /url: /preload/sharebox/
+                        - generic [ref=e952]: Criar publicação
+                      - link "Editar atividade padrão" [ref=e953] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/forms/content-collections-star-pill/new/
+                        - img [ref=e955]
+                  - generic [ref=e957]:
+                    - radio "Publicações" [checked] [ref=e958] [cursor=pointer]:
+                      - generic [ref=e959]:
+                        - checkbox "Publicações" [checked]
+                        - generic [ref=e960]: Publicações
+                    - radio "Comentários" [ref=e961] [cursor=pointer]:
+                      - generic [ref=e962]:
+                        - checkbox "Comentários"
+                        - generic [ref=e963]: Comentários
+                  - generic [ref=e965]:
+                    - generic [ref=e971]:
+                      - list [ref=e972]:
+                        - list [ref=e973]:
+                          - listitem [ref=e974]:
+                            - listitem [ref=e976]:
+                              - generic [ref=e977]:
+                                - generic [ref=e978]:
+                                  - generic [ref=e979]:
+                                    - link [ref=e980] [cursor=pointer]:
+                                      - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                      - figure [ref=e981]:
+                                        - img "Ver perfil de Alessandro Chiarele Filho" [ref=e982]
+                                    - paragraph [ref=e984]:
+                                      - link "Alessandro Chiarele Filho" [ref=e985] [cursor=pointer]:
+                                        - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                        - strong [ref=e986]: Alessandro Chiarele Filho
+                                      - text: compartilhou
+                                  - button "Abrir menu de controle da publicação de Ana Paula Soares Ultramari" [ref=e987] [cursor=pointer]:
+                                    - img [ref=e989]
+                                - generic [ref=e991]:
+                                  - link [ref=e992] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/ana-paula-soares-ultramari-88480b303/
+                                    - figure [ref=e993]:
+                                      - img "Ver perfil de Ana Paula Soares Ultramari" [ref=e994]
+                                  - 'link "Ana Paula Soares Ultramari Premium Perfil 1º Gerente de Recursos Humanos | Expertise em Folha de Pagamento, eSocial, Legislação Trabalhista | Gestão Orçamentária | Liderança Humanizada com Foco em Pessoas | Processos | Resultados 1 sem • Editado • Visibilidade: global" [ref=e995] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/in/ana-paula-soares-ultramari-88480b303/
+                                    - generic [ref=e996]:
+                                      - generic "Ana Paula Soares Ultramari Premium Perfil 1º" [ref=e997]:
+                                        - paragraph [ref=e1000]: Ana Paula Soares Ultramari
+                                        - paragraph [ref=e1002]:
+                                          - img [ref=e1004]
+                                          - text: • 1°
+                                      - paragraph [ref=e1007]: Gerente de Recursos Humanos | Expertise em Folha de Pagamento, eSocial, Legislação Trabalhista | Gestão Orçamentária | Liderança Humanizada com Foco em Pessoas | Processos | Resultados
+                                      - paragraph [ref=e1009]:
+                                        - text: 1 sem • Editado •
+                                        - 'img "Visibilidade: global" [ref=e1010]'
+                                - link [ref=e1012] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7453206372806123520/
+                                  - paragraph [ref=e1013]:
+                                    - generic [ref=e1014]:
+                                      - text: A tecnologia deixou de ser apenas suporte e passou a ocupar um papel central na estratégia de Recursos Humanos. E, dentro desse contexto, a Inteligência Artificial vem se consolidando como uma grande aliada na tomada de decisões mais assertivas, na mitigação de riscos e na garantia de conformidade.
+                                      - text: Nas últimas semanas, tive a oportunidade de vivenciar, na prática, o impacto dessa transformação. Em parceria com
+                                      - link "Alessandro Chiarele Filho" [ref=e1015]:
+                                        - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                        - strong [ref=e1017]: Alessandro Chiarele Filho
+                                      - text: ", especialista em tecnologia do time tributário, foi desenvolvido uma ferramenta voltada à análise da natureza das Rubricas, integrando informações do eSocial e da legislação vigente."
+                                      - text: "O objetivo foi claro: assegurar maior precisão na apuração das informações e fortalecer o cumprimento da legislação trabalhista."
+                                      - text: Além disso, avançamos na automatização nos envios e consultas de retificações, criando um fluxo mais eficiente e seguro para apoiar ajustes relacionados à as novas configurações para atendimento das exigências referente ao IRRF ano base 2025, um momento desafiador para a área.
+                                      - text: Essa iniciativa não só otimiza processos internos, como também gera um impacto direto na vida dos trabalhadores, contribuindo para evitar inconsistências que possam levá-los à malha fina.
+                                      - text: Mais do que ganho operacional, estamos falando de responsabilidade, governança e cuidado com as pessoas.
+                                      - text: A evolução da área de RH passa, necessariamente, pela integração entre tecnologia, dados e conhecimento técnico. E quando conseguimos conectar essas frentes, transformamos desafios complexos em soluções inteligentes e sustentáveis.
+                                      - text: Seguimos avançando 🚀
+                                      - link "#RecursosHumanos" [ref=e1018]:
+                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23recursoshumanos&origin=HASH_TAG_FROM_FEED
+                                        - strong [ref=e1020]: "#RecursosHumanos"
+                                      - link "#InteligenciaArtificial" [ref=e1021]:
+                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23inteligenciaartificial&origin=HASH_TAG_FROM_FEED
+                                        - strong [ref=e1023]: "#InteligenciaArtificial"
+                                      - link "#eSocial" [ref=e1024]:
+                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23esocial&origin=HASH_TAG_FROM_FEED
+                                        - strong [ref=e1026]: "#eSocial"
+                                      - link "#Compliance" [ref=e1027]:
+                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23compliance&origin=HASH_TAG_FROM_FEED
+                                        - strong [ref=e1029]: "#Compliance"
+                                      - link "#Tecnologia" [ref=e1030]:
+                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23tecnologia&origin=HASH_TAG_FROM_FEED
+                                        - strong [ref=e1032]: "#Tecnologia"
+                                      - link "#Inovacao" [ref=e1033]:
+                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23inovacao&origin=HASH_TAG_FROM_FEED
+                                        - strong [ref=e1035]: "#Inovacao"
+                                      - link "#RHestrategico" [ref=e1036]:
+                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23rhestrategico&origin=HASH_TAG_FROM_FEED
+                                        - strong [ref=e1038]: "#RHestrategico"
+                                      - button:
+                                        - generic [ref=e1040]: … mais
+                                - link [ref=e1042] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7453206372806123520/
+                                  - figure [ref=e1043]:
+                                    - img "Ver imagem" [ref=e1044]
+                              - generic [ref=e1045]:
+                                - generic [ref=e1046]:
+                                  - link "34 reações" [ref=e1047] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                    - generic [ref=e1048]:
+                                      - img [ref=e1049]
+                                      - img [ref=e1055]
+                                      - img [ref=e1069]
+                                      - paragraph [ref=e1076]:
+                                        - generic [ref=e1077]: 34 reações
+                                        - text: "34"
+                                  - link "1 compartilhamento" [ref=e1079] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                    - paragraph [ref=e1080]:
+                                      - generic [ref=e1081]: 1 compartilhamento
+                                      - generic [ref=e1082]: 1 compartilhamento
+                                - generic [ref=e1083]:
+                                  - generic [ref=e1084]:
+                                    - 'button "Situação do botão de reação: Gostei" [ref=e1087] [cursor=pointer]':
+                                      - generic [ref=e1088]:
+                                        - img [ref=e1089]
+                                        - generic [ref=e1094]: Gostar
+                                    - button "Abrir menu de reações":
+                                      - img [ref=e1096] [cursor=pointer]
+                                  - link "Comentar" [ref=e1098] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/feed/update/urn:li:activity:7453206372806123520/
+                                    - generic [ref=e1099]:
+                                      - img [ref=e1100]
+                                      - generic [ref=e1102]: Comentar
+                                  - button "Compartilhar" [ref=e1103] [cursor=pointer]:
+                                    - generic [ref=e1104]:
+                                      - img [ref=e1105]
+                                      - generic [ref=e1107]: Compartilhar
+                                  - link "Enviar" [ref=e1108] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                    - generic [ref=e1109]:
+                                      - img [ref=e1110]
+                                      - generic [ref=e1112]: Enviar
+                          - listitem [ref=e1113]:
+                            - listitem [ref=e1115]:
+                              - generic [ref=e1116]:
+                                - generic [ref=e1117]:
+                                  - link [ref=e1118] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - figure [ref=e1119]:
+                                      - img "Ver perfil de Alessandro Chiarele Filho" [ref=e1120]
+                                  - 'link "Alessandro Chiarele Filho Você Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL 2 a • Editado • Visibilidade: global" [ref=e1121] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - generic [ref=e1122]:
+                                      - generic "Alessandro Chiarele Filho Você" [ref=e1123]:
+                                        - paragraph [ref=e1126]: Alessandro Chiarele Filho
+                                        - paragraph [ref=e1128]: • Você
+                                      - paragraph [ref=e1130]: Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL
+                                      - paragraph [ref=e1132]:
+                                        - text: 2 a • Editado •
+                                        - 'img "Visibilidade: global" [ref=e1133]'
+                                  - button "Abrir menu de controle da publicação de Alessandro Chiarele Filho" [ref=e1135] [cursor=pointer]:
+                                    - img [ref=e1137]
+                                - link "Building a Fuzzy Logic-Based Diagnostic Tool with Python. skfuzzy and ipywidgets to map symptoms to health conditions. Complete code available on my GitHub." [ref=e1139] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7125064241165852672/
+                                  - paragraph [ref=e1142]:
+                                    - generic [ref=e1143]:
+                                      - text: Building a Fuzzy Logic-Based Diagnostic Tool with Python. skfuzzy and ipywidgets to map symptoms to health conditions. Complete code available on my GitHub.
+                                      - button:
+                                        - generic [ref=e1145]: … mais
+                                - button "Exibir tradução" [ref=e1147] [cursor=pointer]:
+                                  - generic [ref=e1149]: Exibir tradução
+                                - generic [ref=e1150]:
+                                  - link [ref=e1151] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/pulse/building-fuzzy-logic-based-diagnostic-tool-python-chiarele-filho-fqkrf/
+                                    - figure [ref=e1152]:
+                                      - img "Building a Fuzzy Logic-Based Diagnostic Tool with Python and Jupyter Notebook" [ref=e1153]
+                                  - link "Building a Fuzzy Logic-Based Diagnostic Tool with Python and Jupyter Notebook Alessandro Chiarele Filho" [ref=e1154] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/pulse/building-fuzzy-logic-based-diagnostic-tool-python-chiarele-filho-fqkrf/
+                                    - generic [ref=e1155]:
+                                      - paragraph [ref=e1157]: Building a Fuzzy Logic-Based Diagnostic Tool with Python and Jupyter Notebook
+                                      - paragraph [ref=e1159]: Alessandro Chiarele Filho
+                              - generic [ref=e1161]:
+                                - generic [ref=e1162]:
+                                  - 'button "Situação do botão de reação: nenhuma reação" [ref=e1165] [cursor=pointer]':
+                                    - generic [ref=e1166]:
+                                      - img [ref=e1167]
+                                      - generic [ref=e1169]: Gostar
+                                  - button "Abrir menu de reações":
+                                    - img [ref=e1171] [cursor=pointer]
+                                - link "Comentar" [ref=e1173] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7125064241165852672/
+                                  - generic [ref=e1174]:
+                                    - img [ref=e1175]
+                                    - generic [ref=e1177]: Comentar
+                                - button "Compartilhar" [ref=e1178] [cursor=pointer]:
+                                  - generic [ref=e1179]:
+                                    - img [ref=e1180]
+                                    - generic [ref=e1182]: Compartilhar
+                                - link "Enviar" [ref=e1183] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                  - generic [ref=e1184]:
+                                    - img [ref=e1185]
+                                    - generic [ref=e1187]: Enviar
+                          - listitem [ref=e1188]:
+                            - listitem [ref=e1190]:
+                              - generic [ref=e1191]:
+                                - generic [ref=e1192]:
+                                  - link [ref=e1193] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - figure [ref=e1194]:
+                                      - img "Ver perfil de Alessandro Chiarele Filho" [ref=e1195]
+                                  - 'link "Alessandro Chiarele Filho Você Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL 2 a • Visibilidade: global" [ref=e1196] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - generic [ref=e1197]:
+                                      - generic "Alessandro Chiarele Filho Você" [ref=e1198]:
+                                        - paragraph [ref=e1201]: Alessandro Chiarele Filho
+                                        - paragraph [ref=e1203]: • Você
+                                      - paragraph [ref=e1205]: Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL
+                                      - paragraph [ref=e1207]:
+                                        - text: 2 a •
+                                        - 'img "Visibilidade: global" [ref=e1208]'
+                                  - button "Abrir menu de controle da publicação de Alessandro Chiarele Filho" [ref=e1210] [cursor=pointer]:
+                                    - img [ref=e1212]
+                                - generic [ref=e1214]:
+                                  - generic [ref=e1215]:
+                                    - 'link "Ver grupo: Python Developers Community (moderated)" [ref=e1216] [cursor=pointer]':
+                                      - /url: https://www.linkedin.com/groups/25827/?q=highlightedFeedForGroups&highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A25827-7112768269396193280
+                                      - 'generic "Ver grupo: Python Developers Community (moderated)" [ref=e1217]':
+                                        - figure [ref=e1218]
+                                        - figure [ref=e1219]
+                                    - 'link "Shivam Modi, Buscando emprego Premium Perfil 3º e + Shivam Modi • 3º e + 2 a • Visibilidade: global" [ref=e1220] [cursor=pointer]':
+                                      - /url: https://www.linkedin.com/groups/25827/?q=highlightedFeedForGroups&highlightedUpdateUrn=urn%3Ali%3AgroupPost%3A25827-7112768269396193280
+                                      - generic [ref=e1221]:
+                                        - generic "Shivam Modi, Buscando emprego Premium Perfil 3º e +" [ref=e1222]:
+                                          - paragraph [ref=e1225]: Python Developers Community (moderated)
+                                        - paragraph [ref=e1227]:
+                                          - text: Shivam Modi
+                                          - generic [ref=e1228]: • 3º e +
+                                        - paragraph [ref=e1230]:
+                                          - text: 2 a •
+                                          - 'img "Visibilidade: global" [ref=e1231]'
+                                  - 'link "Save this post & Learn 4 things about the Best Data Analysis Tool with #Python - #Pandas. 1. Getting Started with Pandas 2. Selecting rows and columns 3. Data Wrangling 4. Arithmetics and Statistics Please reshare to your #LinkedIn network so everyone can take advantage of these resources! ✅Visit Shivam Modi (33k Followers) and learn complete Data Science and Analytics from scratch through my old posts. 💡Checkout #datascience blogs and other FREE resources on my website: https://lnkd.in/d-xyvmAC #python #datascience #datascientist #machinelearning #data #dataanalytics" [ref=e1233] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/feed/update/urn:li:groupPost:25827-7112768269396193280/
+                                    - paragraph [ref=e1234]:
+                                      - generic [ref=e1235]:
+                                        - text: Save this post & Learn 4 things about the Best Data Analysis Tool with
+                                        - link "#Python" [ref=e1236]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23python&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1238]: "#Python"
+                                        - text: "-"
+                                        - link "#Pandas" [ref=e1239]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23pandas&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1241]: "#Pandas"
+                                        - text: .
+                                        - text: 1. Getting Started with Pandas
+                                        - text: 2. Selecting rows and columns
+                                        - text: 3. Data Wrangling
+                                        - text: 4. Arithmetics and Statistics
+                                        - text: Please reshare to your
+                                        - link "#LinkedIn" [ref=e1243]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23linkedin&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1245]: "#LinkedIn"
+                                        - text: network so everyone can take advantage of these resources!
+                                        - text: ✅Visit
+                                        - link "Shivam Modi" [ref=e1246]:
+                                          - /url: https://www.linkedin.com/in/shivam-modi-datascientist/
+                                          - strong [ref=e1248]: Shivam Modi
+                                        - text: (33k Followers) and learn complete Data Science and Analytics from scratch through my old posts.
+                                        - text: 💡Checkout
+                                        - link "#datascience" [ref=e1249]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23datascience&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1251]: "#datascience"
+                                        - text: "blogs and other FREE resources on my website:"
+                                        - link "https://lnkd.in/d-xyvmAC" [ref=e1252]:
+                                          - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fd-xyvmAC&urlhash=PtY2&mt=T0tR7ghTIFk02bcdya4uW6onqjHaAXcR4IzXdPiwFWRmHq3tbqaG1MiOcvsDZZ34ElsL65l0uvKWAetVZcND-7pNASuOaU9wYd2qkZ_JUJtFHJd7Hi8-4J2mOo8Aqzg3v5I&isSdui=true
+                                          - strong [ref=e1254]: https://lnkd.in/d-xyvmAC
+                                        - link "#python" [ref=e1255]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23python&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1257]: "#python"
+                                        - link "#datascience" [ref=e1258]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23datascience&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1260]: "#datascience"
+                                        - link "#datascientist" [ref=e1261]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23datascientist&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1263]: "#datascientist"
+                                        - link "#machinelearning" [ref=e1264]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23machinelearning&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1266]: "#machinelearning"
+                                        - link "#data" [ref=e1267]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23data&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1269]: "#data"
+                                        - link "#dataanalytics" [ref=e1270]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23dataanalytics&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1272]: "#dataanalytics"
+                                        - button:
+                                          - generic [ref=e1274]: … mais
+                                  - generic [ref=e1275]:
+                                    - list [ref=e1279]:
+                                      - listitem [ref=e1280]:
+                                        - figure [ref=e1281]
+                                    - paragraph [ref=e1286]: 1 página
+                                    - button "Tela cheia" [ref=e1288] [cursor=pointer]:
+                                      - img [ref=e1290]
+                              - generic [ref=e1293]:
+                                - generic [ref=e1294]:
+                                  - 'button "Situação do botão de reação: nenhuma reação" [ref=e1297] [cursor=pointer]':
+                                    - generic [ref=e1298]:
+                                      - img [ref=e1299]
+                                      - generic [ref=e1301]: Gostar
+                                  - button "Abrir menu de reações":
+                                    - img [ref=e1303] [cursor=pointer]
+                                - link "Comentar" [ref=e1305] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7116095061188091904/
+                                  - generic [ref=e1306]:
+                                    - img [ref=e1307]
+                                    - generic [ref=e1309]: Comentar
+                                - button "Compartilhar" [ref=e1310] [cursor=pointer]:
+                                  - generic [ref=e1311]:
+                                    - img [ref=e1312]
+                                    - generic [ref=e1314]: Compartilhar
+                                - link "Enviar" [ref=e1315] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                  - generic [ref=e1316]:
+                                    - img [ref=e1317]
+                                    - generic [ref=e1319]: Enviar
+                          - listitem [ref=e1320]:
+                            - listitem [ref=e1322]:
+                              - generic [ref=e1323]:
+                                - generic [ref=e1324]:
+                                  - generic [ref=e1325]:
+                                    - link [ref=e1326] [cursor=pointer]:
+                                      - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                      - figure [ref=e1327]:
+                                        - img "Ver perfil de Alessandro Chiarele Filho" [ref=e1328]
+                                    - paragraph [ref=e1330]:
+                                      - link "Alessandro Chiarele Filho" [ref=e1331] [cursor=pointer]:
+                                        - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                        - strong [ref=e1332]: Alessandro Chiarele Filho
+                                      - text: compartilhou
+                                  - button "Abrir menu de controle da publicação de Matt Dancho" [ref=e1333] [cursor=pointer]:
+                                    - img [ref=e1335]
+                                - generic [ref=e1337]:
+                                  - link [ref=e1338] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/mattdancho/
+                                    - figure [ref=e1339]:
+                                      - img "Ver perfil de Matt Dancho" [ref=e1340]
+                                  - 'link "Matt Dancho Usuário verificado Perfil 3º e + Generative AI, Data Science, Time Series Forecasting, Python, and Business (ROI). Join my next live AI workshop (free).👇 2 a • Visibilidade: global" [ref=e1341] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/in/mattdancho/
+                                    - generic [ref=e1342]:
+                                      - generic "Matt Dancho Usuário verificado Perfil 3º e +" [ref=e1343]:
+                                        - paragraph [ref=e1346]: Matt Dancho
+                                        - paragraph [ref=e1348]:
+                                          - img [ref=e1350]
+                                          - text: • 3º e +
+                                      - paragraph [ref=e1353]: Generative AI, Data Science, Time Series Forecasting, Python, and Business (ROI). Join my next live AI workshop (free).👇
+                                      - paragraph [ref=e1355]:
+                                        - text: 2 a •
+                                        - 'img "Visibilidade: global" [ref=e1356]'
+                                - link [ref=e1358] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7114807914669707264/
+                                  - paragraph [ref=e1361]:
+                                    - generic [ref=e1362]:
+                                      - text: "I think the message in Data Science needs to be: Don't believe everything you read."
+                                      - text: I'd like to thank Rafael Nicolas Fermin Cota for pointing me to this modified graphic from a recent Harvard Business Review article on "Prioritizing Which Data Skills Your Company Needs".
+                                      - text: You hear Harvard Business Review, & you think this must be legit. Well, in this case, they dropped the ball.
+                                      - text: "If you're coming up with an educational plan for your org in 2023, here are some tips:"
+                                      - text: 1. Focus on
+                                      - link "#stats" [ref=e1364]:
+                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23stats&origin=HASH_TAG_FROM_FEED
+                                        - strong [ref=e1366]: "#stats"
+                                      - text: "- This is the precursor to everything & will help you tremendously"
+                                      - text: 2. Learn how to work with
+                                      - link "#Data" [ref=e1367]:
+                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23data&origin=HASH_TAG_FROM_FEED
+                                        - strong [ref=e1369]: "#Data"
+                                      - text: "-"
+                                      - link "#DataCleaning" [ref=e1370]:
+                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23datacleaning&origin=HASH_TAG_FROM_FEED
+                                        - strong [ref=e1372]: "#DataCleaning"
+                                      - text: and manipulation is 90% of what you will do
+                                      - text: 3. Build skills in
+                                      - link "#DataVisualization" [ref=e1373]:
+                                        - /url: https://www.linkedin.com/search/results/all/?keywords=%23datavisualization&origin=HASH_TAG_FROM_FEED
+                                        - strong [ref=e1375]: "#DataVisualization"
+                                      - text: "- This is a cornerstone of understanding, yet many ML specialists can't do it"
+                                      - text: 4. Skip over buzzwords until after you learn fundamentals - AI, Data Science, ML - You'll get to these after you learn stats, data manipulation / data cleaning, & data viz
+                                      - text: And if you are learning data science and feel as lost as I did when I first started, then I can help.
+                                      - text: I put together a free 40-minute webinar that is value-packed with the 10 most important secrets that would have saved me countless hours.
+                                      - text: Seriously. This webinar is insane. I packaged 5-years of struggling & finally figuring things out into a jammed packed 40-minute talk.
+                                      - text: So tune in and I’ll see you in the webinar.
+                                      - text: Good luck!
+                                      - text: "P.S. Link to HBR Article:"
+                                      - link "https://buff.ly/463mBRI" [ref=e1376]:
+                                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fbuff%2Ely%2F463mBRI&urlhash=lGhp&mt=lXEXSZ50kgqccyPpwLbTZuFiFIpD5P96ePFWOlpZj5rsrzI8X6u_ebPjxD9c0_2t2-sDwOj_5Y2Ly2pRTlrvoQZNqQbpFZzpjumPxPNPvvocBJ5s16DFqrDNbw&isSdui=true
+                                        - strong [ref=e1378]: https://buff.ly/463mBRI
+                                      - text: "P.P.S. Link to my free 40-minute webinar (10 Secrets to Becoming A 6-Figure Data Scientist):"
+                                      - link "https://buff.ly/3ExICMD" [ref=e1379]:
+                                        - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fbuff%2Ely%2F3ExICMD&urlhash=knRq&mt=03sjUcYhSI6L4tQSm6L6hdGEUC5BvfXLbggdSD5WskOTzgAOFxkIyIQW-JAWprR8oH1JyPrKSRhM47r9eSRth-ddSazoXCXF87Gm57BQ5BNxK8K5gSP4DepZdg&isSdui=true
+                                        - strong [ref=e1381]: https://buff.ly/3ExICMD
+                                      - button:
+                                        - generic [ref=e1383]: … mais
+                                - button "Exibir tradução" [ref=e1385] [cursor=pointer]:
+                                  - generic [ref=e1387]: Exibir tradução
+                                - link [ref=e1389] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7114807914669707264/
+                                  - figure [ref=e1390]:
+                                    - img "Ver imagem" [ref=e1391]
+                              - generic [ref=e1392]:
+                                - generic [ref=e1393]:
+                                  - link "439 reações" [ref=e1394] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                    - generic [ref=e1395]:
+                                      - img [ref=e1396]
+                                      - img [ref=e1402]
+                                      - img [ref=e1410]
+                                      - paragraph [ref=e1417]:
+                                        - generic [ref=e1418]: 439 reações
+                                        - text: "439"
+                                  - generic [ref=e1419]:
+                                    - link "31 comentários" [ref=e1420] [cursor=pointer]:
+                                      - /url: https://www.linkedin.com/feed/update/urn:li:activity:7114807914669707264/
+                                      - paragraph [ref=e1421]:
+                                        - generic [ref=e1422]: 31 comentários
+                                        - generic [ref=e1423]: 31 comentários
+                                    - paragraph [ref=e1424]: •
+                                    - link "46 compartilhamentos" [ref=e1425] [cursor=pointer]:
+                                      - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                      - paragraph [ref=e1426]:
+                                        - generic [ref=e1427]: 46 compartilhamentos
+                                        - generic [ref=e1428]: 46 compartilhamentos
+                                - generic [ref=e1429]:
+                                  - generic [ref=e1430]:
+                                    - 'button "Situação do botão de reação: nenhuma reação" [ref=e1433] [cursor=pointer]':
+                                      - generic [ref=e1434]:
+                                        - img [ref=e1435]
+                                        - generic [ref=e1437]: Gostar
+                                    - button "Abrir menu de reações":
+                                      - img [ref=e1439] [cursor=pointer]
+                                  - link "Comentar" [ref=e1441] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/feed/update/urn:li:activity:7114807914669707264/
+                                    - generic [ref=e1442]:
+                                      - img [ref=e1443]
+                                      - generic [ref=e1445]: Comentar
+                                  - button "Compartilhar" [ref=e1446] [cursor=pointer]:
+                                    - generic [ref=e1447]:
+                                      - img [ref=e1448]
+                                      - generic [ref=e1450]: Compartilhar
+                                  - link "Enviar" [ref=e1451] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                    - generic [ref=e1452]:
+                                      - img [ref=e1453]
+                                      - generic [ref=e1455]: Enviar
+                          - listitem [ref=e1456]:
+                            - listitem [ref=e1458]:
+                              - generic [ref=e1459]:
+                                - generic [ref=e1460]:
+                                  - link [ref=e1461] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - figure [ref=e1462]:
+                                      - img "Ver perfil de Alessandro Chiarele Filho" [ref=e1463]
+                                  - 'link "Alessandro Chiarele Filho Você Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL 2 a • Editado • Visibilidade: global" [ref=e1464] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - generic [ref=e1465]:
+                                      - generic "Alessandro Chiarele Filho Você" [ref=e1466]:
+                                        - paragraph [ref=e1469]: Alessandro Chiarele Filho
+                                        - paragraph [ref=e1471]: • Você
+                                      - paragraph [ref=e1473]: Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL
+                                      - paragraph [ref=e1475]:
+                                        - text: 2 a • Editado •
+                                        - 'img "Visibilidade: global" [ref=e1476]'
+                                  - button "Abrir menu de controle da publicação de Alessandro Chiarele Filho" [ref=e1478] [cursor=pointer]:
+                                    - img [ref=e1480]
+                                - link "Predictive analysis focused on drug behavior within the human body with this insightful post! Preprocessing textual data and identifying patterns using Python's powerful libraries, we employ machine learning to classify and predict specific drug attributes." [ref=e1482] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7114649049391087617/
+                                  - paragraph [ref=e1485]:
+                                    - generic [ref=e1486]:
+                                      - text: Predictive analysis focused on drug behavior within the human body with this insightful post! Preprocessing textual data and identifying patterns using Python's powerful libraries, we employ machine learning to classify and predict specific drug attributes.
+                                      - button:
+                                        - generic [ref=e1488]: … mais
+                                - button "Exibir tradução" [ref=e1490] [cursor=pointer]:
+                                  - generic [ref=e1492]: Exibir tradução
+                                - generic [ref=e1493]:
+                                  - link [ref=e1494] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/pulse/predictive-analysis-drug-behavior-human-body-from-chiarele-filho/
+                                    - figure [ref=e1495]:
+                                      - 'img "Predictive Analysis of Drug Behavior in the Human Body: From Text Pre-processing to Classification and Regression" [ref=e1496]'
+                                  - 'link "Predictive Analysis of Drug Behavior in the Human Body: From Text Pre-processing to Classification and Regression Alessandro Chiarele Filho" [ref=e1497] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/pulse/predictive-analysis-drug-behavior-human-body-from-chiarele-filho/
+                                    - generic [ref=e1498]:
+                                      - paragraph [ref=e1500]: "Predictive Analysis of Drug Behavior in the Human Body: From Text Pre-processing to Classification and Regression"
+                                      - paragraph [ref=e1502]: Alessandro Chiarele Filho
+                              - generic [ref=e1503]:
+                                - generic [ref=e1504]:
+                                  - link "1 reação" [ref=e1505] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                    - generic [ref=e1506]:
+                                      - img [ref=e1507]
+                                      - paragraph [ref=e1514]:
+                                        - generic [ref=e1515]: 1 reação
+                                        - text: "1"
+                                  - link "1 comentário" [ref=e1517] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/feed/update/urn:li:activity:7114649049391087617/
+                                    - paragraph [ref=e1518]:
+                                      - generic [ref=e1519]: 1 comentário
+                                      - generic [ref=e1520]: 1 comentário
+                                - generic [ref=e1521]:
+                                  - generic [ref=e1522]:
+                                    - 'button "Situação do botão de reação: nenhuma reação" [ref=e1525] [cursor=pointer]':
+                                      - generic [ref=e1526]:
+                                        - img [ref=e1527]
+                                        - generic [ref=e1529]: Gostar
+                                    - button "Abrir menu de reações":
+                                      - img [ref=e1531] [cursor=pointer]
+                                  - link "Comentar" [ref=e1533] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/feed/update/urn:li:activity:7114649049391087617/
+                                    - generic [ref=e1534]:
+                                      - img [ref=e1535]
+                                      - generic [ref=e1537]: Comentar
+                                  - button "Compartilhar" [ref=e1538] [cursor=pointer]:
+                                    - generic [ref=e1539]:
+                                      - img [ref=e1540]
+                                      - generic [ref=e1542]: Compartilhar
+                                  - link "Enviar" [ref=e1543] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                    - generic [ref=e1544]:
+                                      - img [ref=e1545]
+                                      - generic [ref=e1547]: Enviar
+                          - listitem [ref=e1548]:
+                            - listitem [ref=e1550]:
+                              - generic [ref=e1551]:
+                                - generic [ref=e1552]:
+                                  - link [ref=e1553] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - figure [ref=e1554]:
+                                      - img "Ver perfil de Alessandro Chiarele Filho" [ref=e1555]
+                                  - 'link "Alessandro Chiarele Filho Você Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL 2 a • Visibilidade: global" [ref=e1556] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - generic [ref=e1557]:
+                                      - generic "Alessandro Chiarele Filho Você" [ref=e1558]:
+                                        - paragraph [ref=e1561]: Alessandro Chiarele Filho
+                                        - paragraph [ref=e1563]: • Você
+                                      - paragraph [ref=e1565]: Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL
+                                      - paragraph [ref=e1567]:
+                                        - text: 2 a •
+                                        - 'img "Visibilidade: global" [ref=e1568]'
+                                  - button "Abrir menu de controle da publicação de Alessandro Chiarele Filho" [ref=e1570] [cursor=pointer]:
+                                    - img [ref=e1572]
+                                - generic [ref=e1574]:
+                                  - generic [ref=e1575]:
+                                    - link [ref=e1576] [cursor=pointer]:
+                                      - /url: https://www.linkedin.com/in/davidbombal/
+                                      - figure [ref=e1577]:
+                                        - img "Ver perfil de David Bombal" [ref=e1578]
+                                    - 'link "David Bombal Premium Perfil Seguindo Author, Instructor and YouTuber - I''ve now reached 30,000 connections on LinkedIn and am unable to accept new connections. Please follow me instead. 2 a • Editado • Visibilidade: global" [ref=e1579] [cursor=pointer]':
+                                      - /url: https://www.linkedin.com/in/davidbombal/
+                                      - generic [ref=e1580]:
+                                        - generic "David Bombal Premium Perfil Seguindo" [ref=e1581]:
+                                          - paragraph [ref=e1584]: David Bombal
+                                          - paragraph [ref=e1586]:
+                                            - img [ref=e1588]
+                                            - text: • Seguindo
+                                        - paragraph [ref=e1591]: Author, Instructor and YouTuber - I've now reached 30,000 connections on LinkedIn and am unable to accept new connections. Please follow me instead.
+                                        - paragraph [ref=e1593]:
+                                          - text: 2 a • Editado •
+                                          - 'img "Visibilidade: global" [ref=e1594]'
+                                  - 'link "Free 9 hour SQL Injection training ... and exciting announcements! YouTube video: https://lnkd.in/eikk_Tdf #CyberSecurity #SQL #infosec #Pentesting #hack #hacker #hacking #Coding Rana Khalil" [ref=e1596] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/feed/update/urn:li:share:7088158396595466240/
+                                    - paragraph [ref=e1599]:
+                                      - generic [ref=e1600]:
+                                        - text: Free 9 hour SQL Injection training ... and exciting announcements!
+                                        - text: "YouTube video:"
+                                        - link "https://lnkd.in/eikk_Tdf" [ref=e1602]:
+                                          - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Feikk_Tdf&urlhash=TPi-&mt=tmVTG6a8VuzVPlJp-2RY0XdgDHOeFVseXiXVvnbq7gfrAOxOnkLxlA1sgECAQifDS9xHhm4YMQCWRsydz-cCuizduV5k0HXuOc8x-Hpl6NM4d6_iYAmzlg&isSdui=true
+                                          - strong [ref=e1604]: https://lnkd.in/eikk_Tdf
+                                        - link "#CyberSecurity" [ref=e1605]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23cybersecurity&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1607]: "#CyberSecurity"
+                                        - link "#SQL" [ref=e1608]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23sql&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1610]: "#SQL"
+                                        - link "#infosec" [ref=e1611]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23infosec&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1613]: "#infosec"
+                                        - link "#Pentesting" [ref=e1614]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23pentesting&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1616]: "#Pentesting"
+                                        - link "#hack" [ref=e1617]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23hack&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1619]: "#hack"
+                                        - link "#hacker" [ref=e1620]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23hacker&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1622]: "#hacker"
+                                        - link "#hacking" [ref=e1623]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23hacking&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1625]: "#hacking"
+                                        - link "#Coding" [ref=e1626]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23coding&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1628]: "#Coding"
+                                        - link "Rana Khalil" [ref=e1629]:
+                                          - /url: https://www.linkedin.com/in/ranakhalil1/
+                                          - strong [ref=e1631]: Rana Khalil
+                                        - button:
+                                          - generic [ref=e1633]: … mais
+                                  - button "Exibir tradução" [ref=e1635] [cursor=pointer]:
+                                    - generic [ref=e1637]: Exibir tradução
+                                  - link "Free 9 Hour Practical Hacking Course! youtube.com" [ref=e1638] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fyoutube%2Ecom%2Fwatch%3Fv%3DyusJWttsD5o%26feature%3Dshare&urlhash=xRBG&mt=KBd-VgmPTvqbtpqhAi32cKGlC0h8OFB4YK027xy7IOLJHV-B1W4kYuGcZajFXRsX1QmVUVc_4-GA56d0Q_C9014eJ2IKDBjc1AR54H_rMMrddZi_REO4NQ&isSdui=true
+                                    - generic [ref=e1639]:
+                                      - figure [ref=e1640]
+                                      - generic [ref=e1641]:
+                                        - paragraph [ref=e1643]:
+                                          - generic [ref=e1644]: Free 9 Hour Practical Hacking Course!
+                                          - text: Free 9 Hour Practical Hacking Course!
+                                        - paragraph [ref=e1646]: youtube.com
+                              - generic [ref=e1648]:
+                                - generic [ref=e1649]:
+                                  - 'button "Situação do botão de reação: nenhuma reação" [ref=e1652] [cursor=pointer]':
+                                    - generic [ref=e1653]:
+                                      - img [ref=e1654]
+                                      - generic [ref=e1656]: Gostar
+                                  - button "Abrir menu de reações":
+                                    - img [ref=e1658] [cursor=pointer]
+                                - link "Comentar" [ref=e1660] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7089005907136684032/
+                                  - generic [ref=e1661]:
+                                    - img [ref=e1662]
+                                    - generic [ref=e1664]: Comentar
+                                - button "Compartilhar" [ref=e1665] [cursor=pointer]:
+                                  - generic [ref=e1666]:
+                                    - img [ref=e1667]
+                                    - generic [ref=e1669]: Compartilhar
+                                - link "Enviar" [ref=e1670] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                  - generic [ref=e1671]:
+                                    - img [ref=e1672]
+                                    - generic [ref=e1674]: Enviar
+                          - listitem [ref=e1675]:
+                            - listitem [ref=e1677]:
+                              - generic [ref=e1678]:
+                                - generic [ref=e1679]:
+                                  - link [ref=e1680] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - figure [ref=e1681]:
+                                      - img "Ver perfil de Alessandro Chiarele Filho" [ref=e1682]
+                                  - 'link "Alessandro Chiarele Filho Você Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL 2 a • Visibilidade: global" [ref=e1683] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - generic [ref=e1684]:
+                                      - generic "Alessandro Chiarele Filho Você" [ref=e1685]:
+                                        - paragraph [ref=e1688]: Alessandro Chiarele Filho
+                                        - paragraph [ref=e1690]: • Você
+                                      - paragraph [ref=e1692]: Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL
+                                      - paragraph [ref=e1694]:
+                                        - text: 2 a •
+                                        - 'img "Visibilidade: global" [ref=e1695]'
+                                  - button "Abrir menu de controle da publicação de Alessandro Chiarele Filho" [ref=e1697] [cursor=pointer]:
+                                    - img [ref=e1699]
+                                - generic [ref=e1701]:
+                                  - generic [ref=e1702]:
+                                    - link [ref=e1703] [cursor=pointer]:
+                                      - /url: https://www.linkedin.com/in/alexwang2911/
+                                      - figure [ref=e1704]:
+                                        - img "Ver perfil de Alex Wang" [ref=e1705]
+                                    - 'link "Alex Wang Top Voice executivo Perfil 3º e + Learn AI Together - I share my learning journey into AI & Data Science here, 90% buzzword-free. Follow me and let’s grow together! Conheça meus serviços 2 a • Editado • Visibilidade: global" [ref=e1706] [cursor=pointer]':
+                                      - /url: https://www.linkedin.com/in/alexwang2911/
+                                      - generic [ref=e1707]:
+                                        - generic "Alex Wang Top Voice executivo Perfil 3º e +" [ref=e1708]:
+                                          - paragraph [ref=e1711]: Alex Wang
+                                          - paragraph [ref=e1713]:
+                                            - img [ref=e1715]
+                                            - text: • 3º e +
+                                        - paragraph [ref=e1718]: Learn AI Together - I share my learning journey into AI & Data Science here, 90% buzzword-free. Follow me and let’s grow together!
+                                        - link "Conheça meus serviços" [ref=e1720]:
+                                          - /url: https://www.linkedin.com/services/page/a2814b3137455a4715/
+                                          - paragraph [ref=e1721]: Conheça meus serviços
+                                        - paragraph [ref=e1723]:
+                                          - text: 2 a • Editado •
+                                          - 'img "Visibilidade: global" [ref=e1724]'
+                                  - 'link "Nice way to show! Generally, data analysts spend a lot more time connecting to business stakeholders than data scientists, who are more coding-intensive. Data engineers usually have less focus on machine learning/algorithms-related tasks. The titles can be interchanged in some job descriptions, and responsibilities also depend on the industry and project. But it''s still quite helpful when we plan the path. Illustration Credit Kevin Rosamont Prombo *For more resources and learning materials regarding AI, ML, and Data Science, please check my previous posts. Alex Wang #data #datascience #dataanalysis #machinelearning" [ref=e1726] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/feed/update/urn:li:share:7087571156282589185/
+                                    - paragraph [ref=e1729]:
+                                      - generic [ref=e1730]:
+                                        - text: Nice way to show!
+                                        - text: Generally, data analysts spend a lot more time connecting to business stakeholders than data scientists, who are more coding-intensive. Data engineers usually have less focus on machine learning/algorithms-related tasks. The titles can be interchanged in some job descriptions, and responsibilities also depend on the industry and project. But it's still quite helpful when we plan the path.
+                                        - text: Illustration Credit
+                                        - link "Kevin Rosamont Prombo" [ref=e1731]:
+                                          - /url: https://www.linkedin.com/in/krosamont/
+                                          - strong [ref=e1733]: Kevin Rosamont Prombo
+                                        - text: "*For more resources and learning materials regarding AI, ML, and Data Science, please check my previous posts."
+                                        - link "Alex Wang" [ref=e1734]:
+                                          - /url: https://www.linkedin.com/in/alexwang2911/
+                                          - strong [ref=e1736]: Alex Wang
+                                        - link "#data" [ref=e1737]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23data&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1739]: "#data"
+                                        - link "#datascience" [ref=e1740]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23datascience&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1742]: "#datascience"
+                                        - link "#dataanalysis" [ref=e1743]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23dataanalysis&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1745]: "#dataanalysis"
+                                        - link "#machinelearning" [ref=e1746]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23machinelearning&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1748]: "#machinelearning"
+                                        - button:
+                                          - generic [ref=e1750]: … mais
+                                  - button "Exibir tradução" [ref=e1752] [cursor=pointer]:
+                                    - generic [ref=e1754]: Exibir tradução
+                                  - link [ref=e1756] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/feed/update/urn:li:share:7087571156282589185/
+                                    - figure [ref=e1757]:
+                                      - img "Ver imagem" [ref=e1758]
+                              - generic [ref=e1760]:
+                                - generic [ref=e1761]:
+                                  - 'button "Situação do botão de reação: nenhuma reação" [ref=e1764] [cursor=pointer]':
+                                    - generic [ref=e1765]:
+                                      - img [ref=e1766]
+                                      - generic [ref=e1768]: Gostar
+                                  - button "Abrir menu de reações":
+                                    - img [ref=e1770] [cursor=pointer]
+                                - link "Comentar" [ref=e1772] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7089005806951497728/
+                                  - generic [ref=e1773]:
+                                    - img [ref=e1774]
+                                    - generic [ref=e1776]: Comentar
+                                - button "Compartilhar" [ref=e1777] [cursor=pointer]:
+                                  - generic [ref=e1778]:
+                                    - img [ref=e1779]
+                                    - generic [ref=e1781]: Compartilhar
+                                - link "Enviar" [ref=e1782] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                  - generic [ref=e1783]:
+                                    - img [ref=e1784]
+                                    - generic [ref=e1786]: Enviar
+                          - listitem [ref=e1787]:
+                            - listitem [ref=e1789]:
+                              - generic [ref=e1790]:
+                                - generic [ref=e1791]:
+                                  - link [ref=e1792] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - figure [ref=e1793]:
+                                      - img "Ver perfil de Alessandro Chiarele Filho" [ref=e1794]
+                                  - 'link "Alessandro Chiarele Filho Você Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL 2 a • Visibilidade: global" [ref=e1795] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - generic [ref=e1796]:
+                                      - generic "Alessandro Chiarele Filho Você" [ref=e1797]:
+                                        - paragraph [ref=e1800]: Alessandro Chiarele Filho
+                                        - paragraph [ref=e1802]: • Você
+                                      - paragraph [ref=e1804]: Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL
+                                      - paragraph [ref=e1806]:
+                                        - text: 2 a •
+                                        - 'img "Visibilidade: global" [ref=e1807]'
+                                  - button "Abrir menu de controle da publicação de Alessandro Chiarele Filho" [ref=e1809] [cursor=pointer]:
+                                    - img [ref=e1811]
+                                - generic [ref=e1813]:
+                                  - generic [ref=e1814]:
+                                    - link [ref=e1815] [cursor=pointer]:
+                                      - /url: https://www.linkedin.com/in/julianaapsilva/
+                                      - figure [ref=e1816]:
+                                        - img "Ver perfil de Juliana Silva" [ref=e1817]
+                                    - 'link "Juliana Silva Usuário verificado Perfil 2º Analista de Dados | Power BI | SQL | Python 2 a • Visibilidade: global" [ref=e1818] [cursor=pointer]':
+                                      - /url: https://www.linkedin.com/in/julianaapsilva/
+                                      - generic [ref=e1819]:
+                                        - generic "Juliana Silva Usuário verificado Perfil 2º" [ref=e1820]:
+                                          - paragraph [ref=e1823]: Juliana Silva
+                                          - paragraph [ref=e1825]:
+                                            - img [ref=e1827]
+                                            - text: • 2º
+                                        - paragraph [ref=e1830]: Analista de Dados | Power BI | SQL | Python
+                                        - paragraph [ref=e1832]:
+                                          - text: 2 a •
+                                          - 'img "Visibilidade: global" [ref=e1833]'
+                                  - 'link "Comandos em SQL 💫 Créditos: Brij kishore Pandey #sql" [ref=e1835] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/feed/update/urn:li:share:7085430948657324032/
+                                    - paragraph [ref=e1836]:
+                                      - generic [ref=e1837]:
+                                        - text: Comandos em SQL 💫
+                                        - text: "Créditos:"
+                                        - link "Brij kishore Pandey" [ref=e1839]:
+                                          - /url: https://www.linkedin.com/in/brijpandeyji/
+                                          - strong [ref=e1841]: Brij kishore Pandey
+                                        - link "#sql" [ref=e1842]:
+                                          - /url: https://www.linkedin.com/search/results/all/?keywords=%23sql&origin=HASH_TAG_FROM_FEED
+                                          - strong [ref=e1844]: "#sql"
+                                        - button:
+                                          - generic [ref=e1846]: … mais
+                                  - link [ref=e1848] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/feed/update/urn:li:share:7085430948657324032/
+                                    - figure [ref=e1849]:
+                                      - img "Ver imagem" [ref=e1850]
+                              - generic [ref=e1852]:
+                                - generic [ref=e1853]:
+                                  - 'button "Situação do botão de reação: nenhuma reação" [ref=e1856] [cursor=pointer]':
+                                    - generic [ref=e1857]:
+                                      - img [ref=e1858]
+                                      - generic [ref=e1860]: Gostar
+                                  - button "Abrir menu de reações":
+                                    - img [ref=e1862] [cursor=pointer]
+                                - link "Comentar" [disabled] [ref=e1864] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7088754668549398528/
+                                  - generic:
+                                    - img
+                                    - generic:
+                                      - generic: Comentar
+                                - button "Compartilhar" [ref=e1865] [cursor=pointer]:
+                                  - generic [ref=e1866]:
+                                    - img [ref=e1867]
+                                    - generic [ref=e1869]: Compartilhar
+                                - link "Enviar" [ref=e1870] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                  - generic [ref=e1871]:
+                                    - img [ref=e1872]
+                                    - generic [ref=e1874]: Enviar
+                          - listitem [ref=e1875]:
+                            - listitem [ref=e1877]:
+                              - generic [ref=e1878]:
+                                - generic [ref=e1879]:
+                                  - link [ref=e1880] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - figure [ref=e1881]:
+                                      - img "Ver perfil de Alessandro Chiarele Filho" [ref=e1882]
+                                  - 'link "Alessandro Chiarele Filho Você Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL 2 a • Visibilidade: global" [ref=e1883] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - generic [ref=e1884]:
+                                      - generic "Alessandro Chiarele Filho Você" [ref=e1885]:
+                                        - paragraph [ref=e1888]: Alessandro Chiarele Filho
+                                        - paragraph [ref=e1890]: • Você
+                                      - paragraph [ref=e1892]: Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL
+                                      - paragraph [ref=e1894]:
+                                        - text: 2 a •
+                                        - 'img "Visibilidade: global" [ref=e1895]'
+                                  - button "Abrir menu de controle da publicação de Alessandro Chiarele Filho" [ref=e1897] [cursor=pointer]:
+                                    - img [ref=e1899]
+                                - generic [ref=e1901]:
+                                  - link [ref=e1902] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/pulse/k-nearest-neighbors-algorithm-predicting-water-sensor-chiarele-filho/
+                                    - figure [ref=e1903]:
+                                      - 'img "K-Nearest Neighbors Algorithm for Predicting Water Sensor Performance in a Treatment Station: An Exercise in AI Development" [ref=e1904]'
+                                  - 'link "K-Nearest Neighbors Algorithm for Predicting Water Sensor Performance in a Treatment Station: An Exercise in AI Development Alessandro Chiarele Filho" [ref=e1905] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/pulse/k-nearest-neighbors-algorithm-predicting-water-sensor-chiarele-filho/
+                                    - generic [ref=e1906]:
+                                      - paragraph [ref=e1908]: "K-Nearest Neighbors Algorithm for Predicting Water Sensor Performance in a Treatment Station: An Exercise in AI Development"
+                                      - paragraph [ref=e1910]: Alessandro Chiarele Filho
+                              - generic [ref=e1912]:
+                                - generic [ref=e1913]:
+                                  - 'button "Situação do botão de reação: nenhuma reação" [ref=e1916] [cursor=pointer]':
+                                    - generic [ref=e1917]:
+                                      - img [ref=e1918]
+                                      - generic [ref=e1920]: Gostar
+                                  - button "Abrir menu de reações":
+                                    - img [ref=e1922] [cursor=pointer]
+                                - link "Comentar" [ref=e1924] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:7078565098461573122/
+                                  - generic [ref=e1925]:
+                                    - img [ref=e1926]
+                                    - generic [ref=e1928]: Comentar
+                                - button "Compartilhar" [ref=e1929] [cursor=pointer]:
+                                  - generic [ref=e1930]:
+                                    - img [ref=e1931]
+                                    - generic [ref=e1933]: Compartilhar
+                                - link "Enviar" [ref=e1934] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                  - generic [ref=e1935]:
+                                    - img [ref=e1936]
+                                    - generic [ref=e1938]: Enviar
+                          - listitem [ref=e1939]:
+                            - listitem [ref=e1941]:
+                              - generic [ref=e1942]:
+                                - generic [ref=e1943]:
+                                  - link [ref=e1944] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - figure [ref=e1945]:
+                                      - img "Ver perfil de Alessandro Chiarele Filho" [ref=e1946]
+                                  - 'link "Alessandro Chiarele Filho Você Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL 4 a • Editado • Visibilidade: global" [ref=e1947] [cursor=pointer]':
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                                    - generic [ref=e1948]:
+                                      - generic "Alessandro Chiarele Filho Você" [ref=e1949]:
+                                        - paragraph [ref=e1952]: Alessandro Chiarele Filho
+                                        - paragraph [ref=e1954]: • Você
+                                      - paragraph [ref=e1956]: Product Engineer | Desenvolvimento de Produto · Especificação de Requisitos Técnicos | React · TypeScript · Python/FastAPI · PostgreSQL
+                                      - paragraph [ref=e1958]:
+                                        - text: 4 a • Editado •
+                                        - 'img "Visibilidade: global" [ref=e1959]'
+                                  - button "Abrir menu de controle da publicação de Alessandro Chiarele Filho" [ref=e1961] [cursor=pointer]:
+                                    - img [ref=e1963]
+                                - 'link "padrão \"SafeMath\" \"constructor() public { owner = msg.sender;\"" [ref=e1965] [cursor=pointer]':
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:6797880075548147712/
+                                  - paragraph [ref=e1966]:
+                                    - generic [ref=e1967]: "padrão \"SafeMath\" \"constructor() public { owner = msg.sender;\""
+                                - generic [ref=e1970]:
+                                  - link [ref=e1971] [cursor=pointer]:
+                                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                    - figure [ref=e1972]:
+                                      - img "Ver imagem" [ref=e1973]
+                                  - paragraph [ref=e1974]: 1/3
+                              - generic [ref=e1976]:
+                                - generic [ref=e1977]:
+                                  - 'button "Situação do botão de reação: nenhuma reação" [ref=e1980] [cursor=pointer]':
+                                    - generic [ref=e1981]:
+                                      - img [ref=e1982]
+                                      - generic [ref=e1984]: Gostar
+                                  - button "Abrir menu de reações":
+                                    - img [ref=e1986] [cursor=pointer]
+                                - link "Comentar" [ref=e1988] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/feed/update/urn:li:activity:6797880075548147712/
+                                  - generic [ref=e1989]:
+                                    - img [ref=e1990]
+                                    - generic [ref=e1992]: Comentar
+                                - button "Compartilhar" [ref=e1993] [cursor=pointer]:
+                                  - generic [ref=e1994]:
+                                    - img [ref=e1995]
+                                    - generic [ref=e1997]: Compartilhar
+                                - link "Enviar" [ref=e1998] [cursor=pointer]:
+                                  - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                                  - generic [ref=e1999]:
+                                    - img [ref=e2000]
+                                    - generic [ref=e2002]: Enviar
+                      - button "Avançar" [ref=e2003] [cursor=pointer]:
+                        - img [ref=e2005]
+                    - link "Exibir tudo" [ref=e2008] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/recent-activity/all/
+                      - generic [ref=e2009]:
+                        - img [ref=e2010]
+                        - generic [ref=e2012]: Exibir tudo
+              - generic [ref=e2032]:
+                - generic [ref=e2033]:
+                  - generic [ref=e2037]:
+                    - generic [ref=e2038]:
+                      - heading "Idioma do perfil" [level=2] [ref=e2039]
+                      - link "Editar idioma do perfil" [ref=e2041] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/secondary-language/
+                        - img [ref=e2043]
+                    - paragraph [ref=e2046]: English
+                    - generic [ref=e2047]:
+                      - heading "Perfil público e URL" [level=2] [ref=e2048]
+                      - link "Editar perfil público e URL" [ref=e2050] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile
+                        - img [ref=e2052]
+                    - paragraph [ref=e2055]: www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7
+                  - iframe [ref=e2058]:
+                    - main "Work With Us Container" [ref=f66e3]:
+                      - generic [ref=f66e4]:
+                        - img [ref=f66e6]
+                        - generic [ref=f66e7]:
+                          - img "Alessandro" [ref=f66e8]
+                          - link "SES Satellites" [ref=f66e9] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F9157%2Flife&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGd9abt3OBfNL41d_xHyjsTmwC_oggAvD1wfb4WBXrjdSkVLwDKbKFrsJWGqfTxCV9LV1mj0PTjzeNxj0gxrVizOX9GnjyakCnCU74pQuUIpWHhhdd5P8VmrevDLzYPNT8NXxFd9q37wx6nkhjD3gWI9mDJ63r9NSxbMlZdUwjhmkCGC-jqHDgkFyCJIbOHGWtWUtcfIFN46byjlxeOYtJBHc4HX7gowrvD4WkQx_oYJNXl4dSWg84uBkpUjtgSF6Sc1PGa01ceYB7K2wjMs3MZxDA-3FMB7SDm0QonQPJepEbLkjtS8f7uAAhCernl6-5j9qwyiF9RQ5VUya2r4LDLZ89ftqubienOCAo_kfutxm-Wgm38rh7A2kzrK6_pYdfDBIL-V7PGA0fmBN94FGSu-eSHRSAZxejhv9lYiempa4RlcKK--wvL-MIUcjr3unEwru0A2OiKQbTP9atbUMBIVtNnsDWvX3HRV3Xfn9Hc_-yk_5pyGYQYOeBvApQWvgtrbjXtD9bUqF47YsCvlpq4N65s85gkQV_Af3PmzK8FCznnUbJtZcUO0dq_4kmVo-JTbR6XvygFD0uincaN39pKO1gaFUu8lArJM7p__YCbUHjSoXMzlI4qt7oz5D0Oat8LwoWiEhtDx9eKBjMc2fGtWDXxygaw7uTvAJrLsF1A0cK06sFLzyFminxHMXOw4VY42qI4EnLAUJev7_Jotpix90O8Jt9zii8hmQ-Rtd68Lb4i5jD42W4tKQWfxMQvFJQ0agC8sEBpNbedptgAmc3pjnUGcYcOnBZ5cMe5ZkwmxSilP6Q-IiiBNEyLZFHe1i7qHR5gA74tNnRGnFeV3bTEovHJbg6iC2UkrJIDIbyLprJoVkeFtGlZZSp9lcSFMdCs1K8IUyyHC4PYgrVtQnaWuG5u_LZgAYZw8qkpvLwLv4-9xn2-OgpMhcid-AxCbV5H_Zu9BABqkLJaoBK0YAPiG_O4aKxNz5jdDITPXP0c2RfwvT49pheWL1xqAvpNRyTUMoGI7elBIRE_Khe38l2ta6dMPmyCbyTPExTMkTS5BhJ5QAyAbh38y4KWFQXSbIuKSyZ9WeObXk5qtks45A87QgBRslPhCMI6F9hXrd4B3-JnPoMAOGEsjfVmGPl1MjsjGccthibJGQ8Jo_H1nFWj%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%22%2C%22trackingId%22%3A%22609d8b81-a567-4972-bb92-34757a35e010%22%7D%2C%22time%22%3A1777942850983%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_self_edit_top_card%22%2C%22interfaceLocale%22%3A%22pt-BR%22%7D%7D%7D%5D&csrfToken=ajax%3A4503579997055352009
+                            - img "SES Satellites" [ref=f66e10]
+                      - generic [ref=f66e11]:
+                        - generic [ref=f66e12]:
+                          - paragraph [ref=f66e13]: Alessandro, explore oportunidades relevantes na organização SES Satellites
+                          - paragraph [ref=f66e14]: Receba as últimas vagas e notícias do setor
+                        - link "Seguir" [ref=f66e15] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=http%3A%2F%2Fwww.linkedin.com%2Fcompany%2F9157%2Flife%3FisFollowingPage%3Dtrue&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGd9abt3IAXCOVyBRIPAr8Ye7qLkQgrgFvDGcdV5p-kXz-vo2UbFW7xdwAtCOBwITlN5-f6VzbfqlQlgSVhvawZJhRmcdLT5osXZQAe9v40t4_-O1cVxeUI-7-LcwbShdHJRqafpd2m2OzVctr8LDRfqfDkGZ-O-s-OvSPo7CxZwzPxDhr8jm4lYZZHyt6opXrmNyjXAv4yvUyVap6EDe6tPhfA_ZpPB6YD2Ch7MH35y4v0kU4nbilbvi7xULlmI9p46CEDj8iSOOozgoD_A4LTmLopptu-FIgoobbLPOD8-c_02iTbRRZZhL3_Qlv9nKBiUJaWNUP6eOxuIS3BrRjjCN93AX51xn-vYONHiQuwGVfbsa2tF1FNzQ4gvU9VlnHI1f79Bl4vUZeB4GoOSuli3T6XrPdUUNvDmPs6Ovd88_LW5Jt8lzQF9V5qmO_1gTuV62vH3cTrUnsGrdSCyhve-0CQCwoIeWMGMgpxCRgagp36ly9bsrKa7ZnRjw4Xw9AJ-LCyXPVPliEJjJd-fyaWvTa79MQ4paRcELg70I9PKpFethx912wtJNT4c7RfB_A_IHE1aQdfLH4iTkzCBOnnmM6PhHYDrMlsnz_2_9L3xzctFo5lGm9pL-3-iztfyoLuFmYdBlBEW59NhWAys55QaRnkdxU8eKyxWPW2BR7PxxLmgN91vdwvr_VzkzEGNBEIMiZCTBprS5967fYZRXwyMhj1J8BI9VfxPusI3T9PsaGq5LGq1vlSEexEXLbSrX3h-JeS4VgDaCa7F-Dy4oZlGMZMJyHl0z2XR8EU0E-u9qjeq8vdZCgTM8LmUBNQPbkNxB0phb3AbjcycWPfWBmvewyAiciwfZsIaHmYSQKRGN4iB_Ri0Jc-Rnv0Bk3UCARQeoHlj6dZZQM64UXXgm--sY0bZUC6TjDqk7b8jvJ7i89IDPy3BhDjnDbA23808HPKYfkTgKl1sTD9uLXilOmVrhPikQygMkqa0TYLbm3tjP6BWtXDuEWz9qfiS-qpvHVE03UtPodkNxb7hVJir6LzDyS98jYy2DhyRnw-DS_V8n6zl2PosV_7olWO4vH-ZmBiaudyiVcvdpz0z7O0RKJyC2qzl-UuQXpJ6nPKh2cIepjGP5co7ktTkbIwFh8mb7-dSQsBffupTPWV71x9cipai5pTFFcnrXct4_nms8WLuKuddGVFPS1gTwaHx_c%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%22%2C%22trackingId%22%3A%221378df42-b149-4f07-9c44-74b32d3c45b7%22%7D%2C%22time%22%3A1777942850983%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_self_edit_top_card%22%2C%22interfaceLocale%22%3A%22pt-BR%22%7D%7D%7D%5D&csrfToken=ajax%3A4503579997055352009
+                      - generic [ref=f66e16]:
+                        - paragraph [ref=f66e17]: Promovido
+                        - button "Opções de anúncios" [ref=f66e18] [cursor=pointer]:
+                          - img [ref=f66e19]
+                          - generic [ref=f66e23]: Opções de anúncios
+                  - generic [ref=e2063]:
+                    - generic [ref=e2065]:
+                      - heading "Quem seus visitantes também viram" [level=3] [ref=e2067]
+                      - paragraph [ref=e2068]: Exibido apenas a você
+                    - generic [ref=e2070]:
+                      - button "Especialista em recursos humanos na empresa Appa Facilities Ver" [ref=e2071] [cursor=pointer]:
+                        - generic [ref=e2072]:
+                          - figure [ref=e2073]
+                          - generic [ref=e2074]:
+                            - paragraph [ref=e2077]: Especialista em recursos humanos na empresa Appa Facilities
+                            - button "Ver" [ref=e2078]:
+                              - generic [ref=e2080]: Ver
+                      - button "Alguém na empresa DAL PINO Ver" [ref=e2081] [cursor=pointer]:
+                        - generic [ref=e2082]:
+                          - figure [ref=e2083]
+                          - generic [ref=e2084]:
+                            - paragraph [ref=e2087]: Alguém na empresa DAL PINO
+                            - button "Ver" [ref=e2088]:
+                              - generic [ref=e2090]: Ver
+                      - button "Funcionário administrativo no setor de Serviços advocatícios em São Paulo e Região Ver" [ref=e2091] [cursor=pointer]:
+                        - generic [ref=e2092]:
+                          - figure [ref=e2093]
+                          - generic [ref=e2094]:
+                            - paragraph [ref=e2097]: Funcionário administrativo no setor de Serviços advocatícios em São Paulo e Região
+                            - button "Ver" [ref=e2098]:
+                              - generic [ref=e2100]: Ver
+                      - button "Diretor executivo no setor de Serviços advocatícios em São Paulo e Região Ver" [ref=e2101] [cursor=pointer]:
+                        - generic [ref=e2102]:
+                          - figure [ref=e2103]
+                          - generic [ref=e2104]:
+                            - paragraph [ref=e2107]: Diretor executivo no setor de Serviços advocatícios em São Paulo e Região
+                            - button "Ver" [ref=e2108]:
+                              - generic [ref=e2110]: Ver
+                  - generic [ref=e2115]:
+                    - generic [ref=e2117]:
+                      - heading "Pessoas que talvez você conheça" [level=2] [ref=e2118]
+                      - paragraph [ref=e2119]: Da sua empresa
+                    - generic [ref=e2121]:
+                      - generic [ref=e2123]:
+                        - link "CARLA DE CARVALHO • 2º Assistente administrativo na Moraes de Carvalho Advogados Associados" [ref=e2125] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/carla-de-carvalho-014b9b1b7/
+                          - generic [ref=e2126]:
+                            - figure [ref=e2127]
+                            - generic [ref=e2128]:
+                              - generic [ref=e2129]:
+                                - paragraph [ref=e2131]: CARLA DE CARVALHO
+                                - paragraph [ref=e2132]: • 2º
+                              - paragraph [ref=e2134]: Assistente administrativo na Moraes de Carvalho Advogados Associados
+                        - button "Convidar CARLA DE CARVALHO para se conectar" [ref=e2138] [cursor=pointer]:
+                          - generic [ref=e2139]:
+                            - img [ref=e2140]
+                            - generic [ref=e2143]: Conectar
+                      - generic [ref=e2145]:
+                        - link "Andre Luiz de Carvalho Moraes · 3º Advogado associado na Carvalho & Moraes Associados" [ref=e2147] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/andre-luiz-de-carvalho-moraes-946b80171/
+                          - generic [ref=e2148]:
+                            - figure [ref=e2149]
+                            - generic [ref=e2150]:
+                              - generic [ref=e2151]:
+                                - paragraph [ref=e2153]: Andre Luiz de Carvalho Moraes
+                                - paragraph [ref=e2154]: · 3º
+                              - paragraph [ref=e2156]: Advogado associado na Carvalho & Moraes Associados
+                        - button "Convidar Andre Luiz de Carvalho Moraes para se conectar" [ref=e2160] [cursor=pointer]:
+                          - generic [ref=e2161]:
+                            - img [ref=e2162]
+                            - generic [ref=e2165]: Conectar
+                      - generic [ref=e2167]:
+                        - link "Mariana Carvalho · 3º • Defendo estrategicamente Médicos e Profissionais da Saúde. • Reduzo riscos, impostos e preocupações. • Assessoria Jurídica para clínicas médicas." [ref=e2169] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/mariana-carvalho-1159972a7/
+                          - generic [ref=e2170]:
+                            - figure [ref=e2171]
+                            - generic [ref=e2172]:
+                              - generic [ref=e2173]:
+                                - paragraph [ref=e2175]: Mariana Carvalho
+                                - paragraph [ref=e2176]: · 3º
+                              - paragraph [ref=e2178]: • Defendo estrategicamente Médicos e Profissionais da Saúde. • Reduzo riscos, impostos e preocupações. • Assessoria Jurídica para clínicas médicas.
+                        - button "Convidar Mariana Carvalho para se conectar" [ref=e2182] [cursor=pointer]:
+                          - generic [ref=e2183]:
+                            - img [ref=e2184]
+                            - generic [ref=e2187]: Conectar
+                      - generic [ref=e2189]:
+                        - link "tiago silva · 3º e + Motorista na m.j moraes de carvalho" [ref=e2191] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/in/tiago-silva-68389a381/
+                          - generic [ref=e2192]:
+                            - figure [ref=e2193]
+                            - generic [ref=e2194]:
+                              - generic [ref=e2195]:
+                                - paragraph [ref=e2197]: tiago silva
+                                - paragraph [ref=e2198]: · 3º e +
+                              - paragraph [ref=e2200]: Motorista na m.j moraes de carvalho
+                        - button "Convidar tiago silva para se conectar" [ref=e2204] [cursor=pointer]:
+                          - generic [ref=e2205]:
+                            - img [ref=e2206]
+                            - generic [ref=e2209]: Conectar
+                    - link "Exiba todas as pessoas que talvez você conheça" [ref=e2211] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                      - generic [ref=e2212]:
+                        - img [ref=e2213]
+                        - generic [ref=e2215]: Exibir tudo
+                  - generic [ref=e2220]:
+                    - generic [ref=e2222]:
+                      - heading "Você talvez goste" [level=2] [ref=e2223]
+                      - paragraph [ref=e2224]: Pages para você
+                    - generic [ref=e2226]:
+                      - link "BRQ Digital Solutions Atividades dos serviços de tecnologia da informação 561.505 seguidores Victor Alves trabalha aqui Seguir" [ref=e2229] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/brq/
+                        - generic [ref=e2230]:
+                          - figure [ref=e2231]
+                          - generic [ref=e2232]:
+                            - paragraph [ref=e2235]: BRQ Digital Solutions
+                            - paragraph [ref=e2237]: Atividades dos serviços de tecnologia da informação
+                            - paragraph [ref=e2238]: 561.505 seguidores
+                            - generic [ref=e2239]:
+                              - figure [ref=e2240]
+                              - paragraph [ref=e2242]:
+                                - link "Victor Alves trabalha aqui" [ref=e2243]:
+                                  - /url: https://www.linkedin.com/in/victor-alves-bugueno-122438144/
+                            - button "Seguir" [ref=e2246]:
+                              - generic [ref=e2247]:
+                                - img [ref=e2248]
+                                - generic [ref=e2250]: Seguir
+                      - link "Alura Ensino eletrônico 794.782 seguidores Agnes trabalha aqui Seguir" [ref=e2253] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/school/aluracursos/
+                        - generic [ref=e2254]:
+                          - figure [ref=e2255]
+                          - generic [ref=e2256]:
+                            - paragraph [ref=e2259]: Alura
+                            - paragraph [ref=e2261]: Ensino eletrônico
+                            - paragraph [ref=e2262]: 794.782 seguidores
+                            - generic [ref=e2263]:
+                              - figure [ref=e2264]
+                              - paragraph [ref=e2266]:
+                                - link "Agnes trabalha aqui" [ref=e2267]:
+                                  - /url: https://www.linkedin.com/in/agnesruescas/
+                            - button "Seguir" [ref=e2270]:
+                              - generic [ref=e2271]:
+                                - img [ref=e2272]
+                                - generic [ref=e2274]: Seguir
+                    - link "Show all pages you might like" [ref=e2276] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro
+                      - generic [ref=e2277]:
+                        - img [ref=e2278]
+                        - generic [ref=e2280]: Exibir tudo
+                - iframe [ref=e2285]:
+                  - generic [ref=f67e3]:
+                    - banner [ref=f67e4]:
+                      - generic [ref=f67e5]:
+                        - link "Promovido" [ref=f67e6] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/ads/start?src=en-all-ad-li-ads_by_li&trk=ads_by_li&utm_medium=ad&utm_source=li&utm_campaign=ads_by_li
+                        - button [ref=f67e7] [cursor=pointer]:
+                          - img [ref=f67e8]
+                    - generic [ref=f67e13]:
+                      - link "Imagem do anúncio 567.741.983 Monitore sua Frota Agora! Reduza custos e aumente a eficiência com Videotelemetria e Dashboards Luis Miguel Luis Miguel também segue Creare Sistemas" [ref=f67e14] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fcrearesistemas.com.br%2Ftelemetria-em-frotas%2F%3Futm_source%3DLinkedin%26utm_medium%3DText%2BADS%26utm_campaign%3DMonitore%2Bsua%2BFrota%26li_fat_id%3Dff9d5b22-6a77-40c4-bf64-14f73114140b&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGd9abv7YxCnJZ6Xdy_ztQ_YUU9lBIjWmWsFTruUHfDfhQhOGPMQ1DZ8-A3Pa-r0GoqNd-J2ty0TOi5-0EdoUEbWs0lhjbVcfhnY0BqXUpaiFn0mfF21DuDdxlKvz6vYA4VGMp526pHloy5dWkKKfJfzrfYe_kq7mn2N3gIWiKcTX6bCyJLWbmeG8mAyAdyR8HbSLMUJLWQ4b3o57uqNU0nOZJtyuKKDy4QSpy9CEBRzVq4DnO7_7FJD0zjH9Quwiu0J6Zc_j5fx4IVaH18wHMufAq6b97XIR2n68kk-GyFasNCDNhgOlfdNT7hjdNoxLkaFlE6R1nFFFZAqJ8bQ7pEYyynyz36gSo2v0Y4dQuAX62kBW0A7xLdF7BjejO2XhTEe55sR99KOqGknXCGvemzviGCcnK1_XH0HvhTFtqwTVGqMpt38QRH8sfuNprMhzs76ksEFtGAqhwSBjBKYqC0MPCYm1p7OSkBb3I-jtjW94J_iuulFTRfKXzbKAkoHaqSrEtGhqjJQ_rHiJDQD91LCJlMMrY2aHteXSpGZZVw9QL2WJ0hxTUxl-7_QVRa2ZQJtsiotZvCSliK3_gUnu2_iiNQhXOudhtb3Bz9NUcFkKB5oTcOEfEw6Hu0l50AQzTNVs-fENtCeZsxnKwYwVDvBFWoZSi4FwNz47hIf_LbKSPsf0XMhe-WrDs78bjV-XIQh15Ga7wwGBBx0IQ7FEW3Wuk2DsbwbKitIsFbUEl6-1uyXBAxel6KEY1pVQlEHZg0cKND3FRP6l0x9MM-H9vMzb54y0KXu_r7Kp_Dk4duhKRKuad3KnwmFd-f31-8R1ntstWO8FN9xr_8e1QY_jfPC4k4fPytTNYIpY_lCj622aTZ2T8niXDsgotNkGKXhfAQI7wdIGfq7MieT6vkxAT1TwvgaVV_rHiCZCESt0w7P0R1_Rgb2fiEquDonnKcXW6bPNpGOj-D1mrm2Bp0An802-aSZP5mMxFFMfmsajTz6rqZSKueC0WDXhsQa7N4Lbt3vG731w%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%22%2C%22trackingId%22%3A%22b22d0f4e-01f0-4d06-a2ae-2d5f20b620f7%22%7D%2C%22time%22%3A1777942851565%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_self_edit_top_card%22%2C%22interfaceLocale%22%3A%22pt-BR%22%7D%7D%7D%5D&csrfToken=ajax%3A4503579997055352009
+                        - img "Imagem do anúncio 567.741.983" [ref=f67e16]
+                        - generic [ref=f67e17]:
+                          - heading "Monitore sua Frota Agora!" [level=4] [ref=f67e18]
+                          - paragraph [ref=f67e19]: Reduza custos e aumente a eficiência com Videotelemetria e Dashboards
+                          - generic [ref=f67e20]:
+                            - img "Luis Miguel" [ref=f67e22]
+                            - paragraph [ref=f67e23]: Luis Miguel também segue Creare Sistemas
+                      - link "Imagem do anúncio 1.253.023.923 Visão para o Futuro Formação com visão sistêmica para crescer nos negócios. RENATO RENATO e mais 6 conexões também seguem Insper" [ref=f67e24] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/li/tscp/sct?destinationUrl=https%3A%2F%2Fwww.insper.edu.br%2Fpt%2Fcursos%2Fpos-graduacao%2Fmbm%3Futm_source%3Dlinkedin%26utm_medium%3Dseg-interesses%26utm_term%3Dmbm-geral%26utm_campaign%3D3tri-26%26utm_content%3Dtext_ads_interesse_metodologia_atual%26li_fat_id%3Dff9d5b22-6a77-40c4-bf64-14f73114140b&trackingEvent=%5B%7B%22eventInfo%22%3A%7B%22appId%22%3A%22com.linkedin.ads.rendering.d_web%22%2C%22eventName%22%3A%22SponsoredRightRailContentActionEvent%22%2C%22topicName%22%3A%22SponsoredRightRailContentActionEvent%22%7D%2C%22eventBody%22%3A%7B%22sponsoredEventHeader%22%3A%7B%22encryptedTrackingData%22%3A%22CwEAAAGd9abv69099I3s_Oa2hkj9UyL6XhsGm9j3rERL8xVQA7InAln3KSbR5EZKKh2eFbe8TInnX4uCJ_lK2LpBCWRQCR-rB4qy77dvwWWTdcE9uvJmsRrlDjlv7Ot2ph5AGSFaUCRGMFrZY34elgx57uUOYsESs9RoaVC3eVLZcCR_RnYaK4mgQuxSUnZGMI8MBwc-RA0dmqCHMnOIAcerh_ab6bgK_L8kX0igGFm1nsOzj-p3cqiC4DCmnjqgRf31wJ0SFzX2lnHR95A2wMLSvjBjZFumpse6s8ka0ZMvm6_KfrpLdnk5S-vaaVkbHEEoUO9c7n--wzyksM38UwA2efO8cvZ_bQT21O7cul3oWEOzYq5MrkgIL_MYmHAO3N2-uC6FMnaeL0IClqzTZ7Ju5W4znmatUfrNS1aHrx6U1-mHqt4y-iat4jmVhWzDdFTwWb_F2510PyBhS6ViLHzDWj87EP7zAv5PmLk_ZxiYpnxbFfmjGiqDLLCbZoehKNsWMk9exmpwaOqwHBPrbNM0ZYPeNz8slaewmYJh_dy43DVkTT9BV0sjuE9FtHqIJo9XXWZnEZiiyf9H9Db_c7qLC4u195raWPc3PiI2B3SM4G0QMLZTkl7HTRGmkYDPEeiSja6T6ruvXEGs_0pAQB6_ujY1kJVuDDLCuAWIVqa4cu2kOhzj1KRFDvyu82S5jDp5F-3znIAn87GQ_8X5o-fHwam5sXX4_qtudwqetzQA5xWErtEXGL8z-7ru13R4cbIrAFnWCPjiLoGF-Qo5HA4klxWyKSC-kk28rZa8g-7MK7JgkpTtWgWiD4m8YDRONNiFQIYGidMusdIB--m1UP0aKMCHE9YHgTTgFG69a1FvO4LHblcu4QFD8JCLuaBiKwjDV6Ick3iiJNDmU6BVSO1CWLSraNlFmnbWIRUCm6Mq7W5un42O4Rf_RJlrtc_4Qo3LrQddX5SZV-VX08u8KpLzGsdY_Bcko-Zslvx2b6nOygeGS55PX1lZ4fpGb7t_sT1FAR6hHq87d7WDR0P6lYis4_XPMMmZRKY%22%7D%2C%22header%22%3A%7B%22pageInstance%22%3A%7B%22pageUrn%22%3A%22urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%22%2C%22trackingId%22%3A%22ed254409-c24a-45e1-bbc3-8f43f4930389%22%7D%2C%22time%22%3A1777942851562%2C%22version%22%3A%220.0.0%22%7D%2C%22requestHeader%22%3A%7B%22pageKey%22%3A%22d_flagship3_profile_self_edit_top_card%22%2C%22interfaceLocale%22%3A%22pt-BR%22%7D%7D%7D%5D&csrfToken=ajax%3A4503579997055352009
+                        - img "Imagem do anúncio 1.253.023.923" [ref=f67e26]
+                        - generic [ref=f67e27]:
+                          - heading "Visão para o Futuro" [level=4] [ref=f67e28]
+                          - paragraph [ref=f67e29]: Formação com visão sistêmica para crescer nos negócios.
+                          - generic [ref=f67e30]:
+                            - img "RENATO" [ref=f67e32]
+                            - paragraph [ref=f67e33]: RENATO e mais 6 conexões também seguem Insper
+              - generic [ref=e2289]:
+                - generic [ref=e2290]:
+                  - navigation [ref=e2291]:
+                    - link "Sobre" [ref=e2292] [cursor=pointer]:
+                      - /url: https://about.linkedin.com/
+                      - paragraph [ref=e2293]: Sobre
+                    - link "Acessibilidade" [ref=e2294] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/accessibility/
+                      - paragraph [ref=e2295]: Acessibilidade
+                    - link "Soluções de Talentos" [ref=e2296] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/talent-solutions?trk=flagship_nav&veh=li-footer-lts-control&src=li-footer
+                      - paragraph [ref=e2297]: Soluções de Talentos
+                    - link "Diretrizes da Comunidade" [ref=e2298] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/legal/professional-community-policies/
+                      - paragraph [ref=e2299]: Diretrizes da Comunidade
+                    - link "Carreiras" [ref=e2300] [cursor=pointer]:
+                      - /url: https://careers.linkedin.com/
+                      - paragraph [ref=e2301]: Carreiras
+                    - link "Soluções de Marketing" [ref=e2302] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/advertise?trk=n_nav_lms_f&src=li-footer
+                      - paragraph [ref=e2303]: Soluções de Marketing
+                    - button "Termos e Privacidade" [ref=e2304] [cursor=pointer]:
+                      - generic [ref=e2305]:
+                        - paragraph [ref=e2306]: Termos e Privacidade
+                        - img [ref=e2307]
+                    - link "Preferências de anúncios" [ref=e2309] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                      - paragraph [ref=e2310]: Preferências de anúncios
+                    - link "Publicidade" [ref=e2311] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                      - paragraph [ref=e2312]: Publicidade
+                    - link "Soluções de Vendas" [ref=e2313] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/sales-solutions?trk=flagship_nav&veh=li-footer-lss-control&src=li-footer
+                      - paragraph [ref=e2314]: Soluções de Vendas
+                    - link "Dispositivo móvel" [ref=e2315] [cursor=pointer]:
+                      - /url: https://mobile.linkedin.com/
+                      - paragraph [ref=e2316]: Dispositivo móvel
+                    - link "Pequenas empresas" [ref=e2317] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/grow?src=li-footer
+                      - paragraph [ref=e2318]: Pequenas empresas
+                    - link "Central de Segurança" [ref=e2319] [cursor=pointer]:
+                      - /url: https://safety.linkedin.com/
+                      - paragraph [ref=e2320]: Central de Segurança
+                  - paragraph [ref=e2322]: LinkedIn Corporation © 2026
+                - generic [ref=e2323]:
+                  - list [ref=e2324]:
+                    - listitem [ref=e2325]:
+                      - generic [ref=e2326]:
+                        - img [ref=e2327]
+                        - generic [ref=e2329]:
+                          - link "Dúvidas?" [ref=e2330] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/help/linkedin/
+                            - paragraph [ref=e2331]: Dúvidas?
+                          - paragraph [ref=e2332]: Acesse a nossa Central de Ajuda.
+                    - listitem [ref=e2333]:
+                      - generic [ref=e2334]:
+                        - img [ref=e2335]
+                        - generic [ref=e2337]:
+                          - link "Gerencie sua conta e privacidade" [ref=e2338] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/mypreferences/d/
+                            - paragraph [ref=e2339]: Gerencie sua conta e privacidade
+                          - paragraph [ref=e2340]: Acesse suas Configurações.
+                    - listitem [ref=e2341]:
+                      - generic [ref=e2342]:
+                        - img [ref=e2343]
+                        - generic [ref=e2345]:
+                          - link "Visibilidade da recomendação" [ref=e2346] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/help/linkedin/answer/a1339724/
+                            - paragraph [ref=e2347]: Visibilidade da recomendação
+                          - paragraph [ref=e2348]: Saiba mais sobre os conteúdos recomendados.
+                  - generic [ref=e2350]:
+                    - paragraph [ref=e2352]: Selecionar idioma
+                    - generic [ref=e2353]:
+                      - combobox "Selecionar idioma" [ref=e2354] [cursor=pointer]:
+                        - option "العربية (Árabe)"
+                        - option "বাংলা (Bengali)"
+                        - option "Čeština (Tcheco)"
+                        - option "Dansk (Dinamarquês)"
+                        - option "Deutsch (Alemão)"
+                        - option "Ελληνικά (Grego)"
+                        - option "English (Inglês)"
+                        - option "Español (Espanhol)"
+                        - option "فارسی (Persa)"
+                        - option "Suomi (Finlandês)"
+                        - option "Français (Francês)"
+                        - option "हिंदी (Hindi)"
+                        - option "Magyar (Húngaro)"
+                        - option "Bahasa Indonésia (Indonésio)"
+                        - option "Italiano (Italiano)"
+                        - option "עברית (Hebraico)"
+                        - option "日本語 (Japonês)"
+                        - option "한국어 (Coreano)"
+                        - option "मराठी (Marati)"
+                        - option "Bahasa Malaysia (Malaio)"
+                        - option "Nederlands (Holandês)"
+                        - option "Norsk (Norueguês)"
+                        - option "ਪੰਜਾਬੀ (Punjabi)"
+                        - option "Polski (Polonês)"
+                        - option "Português (Português)" [selected]
+                        - option "Română (Romeno)"
+                        - option "Русский (Russo)"
+                        - option "Svenska (Sueco)"
+                        - option "తెలుగు (Telugu)"
+                        - option "ภาษาไทย (Tailandês)"
+                        - option "Tagalog (Tagalog)"
+                        - option "Türkçe (Turco)"
+                        - option "Українська (Ucraniano)"
+                        - option "Tiếng Việt (Vietnamita)"
+                        - option "简体中文 (Chinês (Simplificado))"
+                        - option "正體中文 (Chinês (Tradicional))"
+                      - img
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - complementary:
+            - generic [ref=e2355]:
+              - generic [ref=e2356]:
+                - generic [ref=e2358] [cursor=pointer]:
+                  - generic [ref=e2359]:
+                    - img "Alessandro Chiarele Filho" [ref=e2360]
+                    - generic [ref=e2362]: O status está on-line
+                  - button "Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas." [ref=e2363]:
+                    - generic [ref=e2364]:
+                      - generic [ref=e2365]: Mensagens
+                      - generic [ref=e2366]: Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas.
+                - generic [ref=e2367]:
+                  - button "Abrir o menu suspenso de mensagens" [ref=e2369] [cursor=pointer]:
+                    - img "Abrir o menu suspenso de mensagens" [ref=e2370]
+                  - button "Escrever mensagem" [ref=e2373] [cursor=pointer]:
+                    - img [ref=e2374]
+                    - generic [ref=e2376]: Escrever mensagem
+                  - button "Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas." [ref=e2377] [cursor=pointer]:
+                    - img [ref=e2378]
+                    - generic [ref=e2380]: Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas.
+              - link "Foto da empresa MORAES DE CARVALHO ADVOGADOS ASSOCIADOS MORAES DE CARVALHO ADVOGADOS ASSOCIADOS" [ref=e2381] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/103197304/admin/inbox
+                - img "Foto da empresa MORAES DE CARVALHO ADVOGADOS ASSOCIADOS" [ref=e2382]
+                - generic [ref=e2383]: MORAES DE CARVALHO ADVOGADOS ASSOCIADOS
+                - img [ref=e2384]
+          - complementary "Assistente de IA para obter ajuda com sua carreira, vagas, etc."
+  - iframe [ref=e2386]:
+    - generic [active] [ref=f68e1]:
+      - generic:
+        - region "Mensagem toast":
+          - heading "0 notificações no total" [level=2] [ref=f68e3]
+          - alert
+      - generic [ref=f68e4]:
+        - generic [ref=f68e6]:
+          - button "Pular para pesquisa" [ref=f68e7] [cursor=pointer]:
+            - generic [ref=f68e8]: Pular para pesquisa
+          - button "Pular para conteúdo principal" [ref=f68e9] [cursor=pointer]:
+            - generic [ref=f68e10]: Pular para conteúdo principal
+          - button "Atalhos do teclado" [ref=f68e11] [cursor=pointer]:
+            - generic [ref=f68e12]: Atalhos do teclado
+          - button "Fechar menu pular" [ref=f68e13] [cursor=pointer]:
+            - img [ref=f68e14]
+            - generic [ref=f68e16]: Fechar menu pular
+        - banner "Navegação geral" [ref=f68e17]:
+          - generic [ref=f68e18]:
+            - link "LinkedIn" [ref=f68e19] [cursor=pointer]:
+              - /url: https://www.linkedin.com/feed/?nis=true
+              - img "LinkedIn" [ref=f68e22]:
+                - img [ref=f68e23]
+            - generic [ref=f68e27]:
+              - combobox "Pesquisar" [ref=f68e28]
+              - generic:
+                - img
+            - navigation "Navegação principal" [ref=f68e29]:
+              - list [ref=f68e30]:
+                - listitem [ref=f68e31]:
+                  - link "atualizações do feed novas notificações Início" [ref=f68e32] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/feed/
+                    - generic [ref=f68e33]:
+                      - generic [ref=f68e36]: atualizações do feed novas notificações
+                      - img [ref=f68e40]
+                    - generic "Início" [ref=f68e42]
+                - listitem [ref=f68e43]:
+                  - link "1 atualização de rede nova notificação Minha rede" [ref=f68e44] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/?
+                    - generic [ref=f68e45]:
+                      - generic [ref=f68e46]:
+                        - generic [ref=f68e47]: "1"
+                        - generic [ref=f68e48]: 1 atualização de rede nova notificação
+                      - img [ref=f68e52]
+                    - generic "Minha rede" [ref=f68e54]
+                - listitem [ref=f68e55]:
+                  - link "Vagas" [ref=f68e56] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/?
+                    - img [ref=f68e60]
+                    - generic "Vagas" [ref=f68e62]
+                - listitem [ref=f68e63]:
+                  - link "Mensagens" [ref=f68e64] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/?
+                    - img [ref=f68e68]
+                    - generic "Mensagens" [ref=f68e70]
+                - listitem [ref=f68e71]:
+                  - link "1 nova notificação Notificações" [ref=f68e72] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/?
+                    - generic [ref=f68e73]:
+                      - generic [ref=f68e74]:
+                        - generic [ref=f68e75]: "1"
+                        - generic [ref=f68e76]: 1 nova notificação
+                      - img [ref=f68e80]
+                    - generic "Notificações" [ref=f68e82]
+                - listitem [ref=f68e83]:
+                  - button "Alessandro Chiarele Filho Eu" [ref=f68e85] [cursor=pointer]:
+                    - img "Alessandro Chiarele Filho" [ref=f68e86]
+                    - generic [ref=f68e87]:
+                      - text: Eu
+                      - img [ref=f68e88]
+                - listitem [ref=f68e90]:
+                  - button "Para negócios" [ref=f68e92] [cursor=pointer]:
+                    - img [ref=f68e96]
+                    - generic "Para negócios" [ref=f68e98]:
+                      - text: Para negócios
+                      - img [ref=f68e99]
+                - listitem [ref=f68e101]:
+                  - 'link "Aumente a visibilidade da sua Page: comece com 1 mês grátis" [ref=f68e103] [cursor=pointer]':
+                    - /url: http://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_page_nav_upsell_text%3ACompany+Pages+SKU%3AIn-Product&referenceId=n5XzuuarTraWapbPGmzGmw%3D%3D&companyUrn=urn%3Ali%3Afsd_company%3A103197304&isSS=false&upsellSlotId=NAV_SPOTLIGHT&destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falessandro-chiarele-filho-26497b1a7%2Fedit%2Fintro
+                    - generic [ref=f68e105]: "Aumente a visibilidade da sua Page: comece com 1 mês grátis"
+      - region [ref=f68e121]

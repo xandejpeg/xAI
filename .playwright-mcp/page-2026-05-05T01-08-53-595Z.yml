@@ -1,0 +1,259 @@
+- generic [ref=e2]:
+  - heading "0 notificação" [level=2] [ref=e3]
+  - generic [ref=e4]:
+    - generic:
+      - button [ref=e5] [cursor=pointer]:
+        - generic [ref=e7]: Pular para conteúdo principal
+      - button [ref=e8] [cursor=pointer]
+    - generic [ref=e11]:
+      - banner [ref=e13]:
+        - generic [ref=e16]:
+          - button [ref=e17] [cursor=pointer]
+          - generic [ref=e20]:
+            - navigation [ref=e23]:
+              - list [ref=e24]:
+                - listitem [ref=e25]:
+                  - button "Início, 1 nova notificação" [ref=e26] [cursor=pointer]:
+                    - img [ref=e28]
+                    - generic [ref=e30]: Início
+                - listitem [ref=e31]:
+                  - link "Minha rede0 nova notificação" [ref=e32] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork
+                    - img [ref=e34]
+                    - generic [ref=e36]: Minha rede
+                - listitem [ref=e37]:
+                  - link "Vagas, 0 nova notificação" [ref=e38] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/jobs/
+                    - img [ref=e40]
+                    - generic [ref=e42]: Vagas
+                - listitem [ref=e43]:
+                  - link "Mensagens, 0 nova notificação" [ref=e44] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/messaging/
+                    - img [ref=e46]
+                    - generic [ref=e48]: Mensagens
+                - listitem [ref=e49]:
+                  - link "Notificações, 0 nova notificação" [ref=e50] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/notifications/
+                    - img [ref=e52]
+                    - generic [ref=e54]: Notificações
+                - listitem [ref=e55]:
+                  - button "Eu" [ref=e56] [cursor=pointer]:
+                    - figure [ref=e58]
+                    - generic [ref=e59]: Eu
+            - generic [ref=e62]:
+              - navigation [ref=e63]:
+                - list [ref=e64]:
+                  - listitem [ref=e65]:
+                    - button "Para negócios" [ref=e66] [cursor=pointer]:
+                      - img [ref=e68]
+                      - generic [ref=e70]: Para negócios
+              - generic [ref=e73]:
+                - link:
+                  - /url: https://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_page_nav_upsell_text%3ACompany+Pages+SKU%3AIn-Product&referenceId=JGnZaWHATsuILnTC5r%2Fnrg%3D%3D&companyUrn=urn%3Ali%3Afsd_company%3A103197304&isSS=false&upsellSlotId=NAV_SPOTLIGHT
+                - generic [ref=e74]:
+                  - link:
+                    - /url: https://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_page_nav_upsell_text%3ACompany+Pages+SKU%3AIn-Product&referenceId=JGnZaWHATsuILnTC5r%2Fnrg%3D%3D&companyUrn=urn%3Ali%3Afsd_company%3A103197304&isSS=false&upsellSlotId=NAV_SPOTLIGHT
+                  - paragraph [ref=e75]:
+                    - link:
+                      - /url: https://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_page_nav_upsell_text%3ACompany+Pages+SKU%3AIn-Product&referenceId=JGnZaWHATsuILnTC5r%2Fnrg%3D%3D&companyUrn=urn%3Ali%3Afsd_company%3A103197304&isSS=false&upsellSlotId=NAV_SPOTLIGHT
+                    - 'link "Aumente a visibilidade da sua Page: comece com 1 mês grátis" [ref=e76] [cursor=pointer]':
+                      - /url: https://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_page_nav_upsell_text%3ACompany+Pages+SKU%3AIn-Product&referenceId=JGnZaWHATsuILnTC5r%2Fnrg%3D%3D&companyUrn=urn%3Ali%3Afsd_company%3A103197304&isSS=false&upsellSlotId=NAV_SPOTLIGHT
+      - main [ref=e77]:
+        - generic [ref=e78]:
+          - toolbar [ref=e79]:
+            - generic [ref=e83]:
+              - link "Alessandro Chiarele Filho" [ref=e84] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/
+                - generic "Alessandro Chiarele Filho" [ref=e85]:
+                  - figure [ref=e86]
+                  - generic [ref=e87]:
+                    - paragraph [ref=e88]: Alessandro Chiarele Filho
+                    - paragraph [ref=e90]: "Desenvolvedor Backend Pleno · Especialista eSocial | Founder: Easy Social · RealPrev · Avante Hub · Coffee Candles | Python · Java · Golang · Bun · SOAP · Solidity / EVM"
+              - generic [ref=e91]:
+                - button "Recursos" [ref=e93] [cursor=pointer]:
+                  - generic [ref=e95]: Recursos
+                - button "Aprimorar perfil" [ref=e97] [cursor=pointer]:
+                  - generic [ref=e99]: Aprimorar perfil
+                - link "Adicionar seção" [ref=e100] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/
+                  - generic [ref=e102]: Adicionar seção
+                - button "Disponível para" [ref=e104] [cursor=pointer]:
+                  - generic [ref=e106]: Disponível para
+          - main [ref=e107]:
+            - generic [ref=e109]:
+              - generic [ref=e117]:
+                - generic [ref=e118]:
+                  - generic [ref=e119]:
+                    - link [ref=e121] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/overlay/background-photo/
+                      - figure [ref=e122]:
+                        - img "Foto de capa" [ref=e123]
+                    - button "Editar imagem de fundo" [ref=e127] [cursor=pointer]
+                  - link "Foto do perfil" [ref=e130] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/
+                    - generic "Foto do perfil" [ref=e131]:
+                      - figure [ref=e132]
+                  - link "Editar perfil" [ref=e134] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/intro/
+                - generic [ref=e137]:
+                  - generic [ref=e138]:
+                    - generic [ref=e140]:
+                      - link "Alessandro Chiarele Filho" [ref=e143] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - heading "Alessandro Chiarele Filho" [level=2] [ref=e145]
+                      - paragraph [ref=e146]: "Desenvolvedor Backend Pleno · Especialista eSocial | Founder: Easy Social · RealPrev · Avante Hub · Coffee Candles | Python · Java · Golang · Bun · SOAP · Solidity / EVM"
+                      - generic [ref=e147]:
+                        - paragraph [ref=e148]: São Paulo, São Paulo, Brasil
+                        - paragraph [ref=e149]: ·
+                        - paragraph [ref=e150]:
+                          - link "Dados de contato" [ref=e151] [cursor=pointer]:
+                            - /url: "#"
+                    - generic [ref=e153]:
+                      - button "MORAES DE CARVALHO ADVOGADOS ASSOCIADOS" [ref=e154] [cursor=pointer]:
+                        - generic [ref=e155]:
+                          - figure [ref=e156]
+                          - paragraph [ref=e160]: MORAES DE CARVALHO ADVOGADOS ASSOCIADOS
+                      - button "FIAP" [ref=e161] [cursor=pointer]:
+                        - generic [ref=e162]:
+                          - figure [ref=e163]
+                          - paragraph [ref=e167]: FIAP
+                  - link "50 conexões" [ref=e169] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/mynetwork/invite-connect/connections/
+                    - paragraph [ref=e170]: 50 conexões
+                  - generic [ref=e174]:
+                    - button "Disponível para" [ref=e176] [cursor=pointer]:
+                      - generic [ref=e178]: Disponível para
+                    - link "Adicionar seção" [ref=e179] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/
+                      - generic [ref=e181]: Adicionar seção
+                    - button "Aprimorar perfil" [ref=e183] [cursor=pointer]:
+                      - generic [ref=e185]: Aprimorar perfil
+                    - button "Recursos" [ref=e187] [cursor=pointer]:
+                      - generic [ref=e189]: Recursos
+                - list [ref=e194]:
+                  - listitem [ref=e195]:
+                    - generic [ref=e196]:
+                      - link "Buscando emprego São Paulo, SP | Presencial · Híbrido Exibir detalhes" [ref=e197] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/
+                        - generic [ref=e198]:
+                          - paragraph [ref=e200]:
+                            - strong [ref=e201]: Buscando emprego
+                          - paragraph [ref=e203]: São Paulo, SP | Presencial · Híbrido
+                          - paragraph [ref=e205]: Exibir detalhes
+                      - link "Editar" [ref=e206] [cursor=pointer]:
+                        - /url: /in/alessandro-chiarele-filho-26497b1a7/opportunities/job-opportunities/edit/?origin=PROFILE_TOP_CARD
+              - generic [ref=e242]:
+                - generic [ref=e246]:
+                  - generic [ref=e247]:
+                    - heading "Idioma do perfil" [level=2] [ref=e248]
+                    - link "Editar idioma do perfil" [ref=e250] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7/edit/secondary-language/
+                  - paragraph [ref=e254]: English
+                  - generic [ref=e255]:
+                    - heading "Perfil público e URL" [level=2] [ref=e256]
+                    - link "Editar perfil público e URL" [ref=e258] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile
+                  - paragraph [ref=e262]: www.linkedin.com/in/alessandro-chiarele-filho-26497b1a7
+                - iframe [ref=e265]:
+                  
+              - generic [ref=e269]:
+                - generic [ref=e270]:
+                  - navigation [ref=e271]:
+                    - link "Sobre" [ref=e272] [cursor=pointer]:
+                      - /url: https://about.linkedin.com/
+                      - paragraph [ref=e273]: Sobre
+                    - link "Acessibilidade" [ref=e274] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/accessibility/
+                      - paragraph [ref=e275]: Acessibilidade
+                    - link "Soluções de Talentos" [ref=e276] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/talent-solutions?trk=flagship_nav&veh=li-footer-lts-control&src=li-footer
+                      - paragraph [ref=e277]: Soluções de Talentos
+                    - link "Diretrizes da Comunidade" [ref=e278] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/legal/professional-community-policies/
+                      - paragraph [ref=e279]: Diretrizes da Comunidade
+                    - link "Carreiras" [ref=e280] [cursor=pointer]:
+                      - /url: https://careers.linkedin.com/
+                      - paragraph [ref=e281]: Carreiras
+                    - link "Soluções de Marketing" [ref=e282] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/advertise?trk=n_nav_lms_f&src=li-footer
+                      - paragraph [ref=e283]: Soluções de Marketing
+                    - button "Termos e Privacidade" [ref=e284] [cursor=pointer]:
+                      - paragraph [ref=e286]: Termos e Privacidade
+                    - link "Preferências de anúncios" [ref=e288] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/help/linkedin/answer/62931/
+                      - paragraph [ref=e289]: Preferências de anúncios
+                    - link "Publicidade" [ref=e290] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/ad/start/?trk=n_nav_ads_rr
+                      - paragraph [ref=e291]: Publicidade
+                    - link "Soluções de Vendas" [ref=e292] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/sales-solutions?trk=flagship_nav&veh=li-footer-lss-control&src=li-footer
+                      - paragraph [ref=e293]: Soluções de Vendas
+                    - link "Dispositivo móvel" [ref=e294] [cursor=pointer]:
+                      - /url: https://mobile.linkedin.com/
+                      - paragraph [ref=e295]: Dispositivo móvel
+                    - link "Pequenas empresas" [ref=e296] [cursor=pointer]:
+                      - /url: https://business.linkedin.com/grow?src=li-footer
+                      - paragraph [ref=e297]: Pequenas empresas
+                    - link "Central de Segurança" [ref=e298] [cursor=pointer]:
+                      - /url: https://safety.linkedin.com/
+                      - paragraph [ref=e299]: Central de Segurança
+                  - paragraph [ref=e301]: LinkedIn Corporation © 2026
+                - generic [ref=e302]:
+                  - list [ref=e303]:
+                    - listitem [ref=e304]:
+                      - generic [ref=e307]:
+                        - link "Dúvidas?" [ref=e308] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/help/linkedin/
+                          - paragraph [ref=e309]: Dúvidas?
+                        - paragraph [ref=e310]: Acesse a nossa Central de Ajuda.
+                    - listitem [ref=e311]:
+                      - generic [ref=e314]:
+                        - link "Gerencie sua conta e privacidade" [ref=e315] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/mypreferences/d/
+                          - paragraph [ref=e316]: Gerencie sua conta e privacidade
+                        - paragraph [ref=e317]: Acesse suas Configurações.
+                    - listitem [ref=e318]:
+                      - generic [ref=e321]:
+                        - link "Visibilidade da recomendação" [ref=e322] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/help/linkedin/answer/a1339724/
+                          - paragraph [ref=e323]: Visibilidade da recomendação
+                        - paragraph [ref=e324]: Saiba mais sobre os conteúdos recomendados.
+                  - generic [ref=e326]:
+                    - paragraph [ref=e328]: Selecionar idioma
+                    - combobox "Selecionar idioma" [ref=e330] [cursor=pointer]:
+                      - option "العربية (Árabe)"
+                      - option "বাংলা (Bengali)"
+                      - option "Čeština (Tcheco)"
+                      - option "Dansk (Dinamarquês)"
+                      - option "Deutsch (Alemão)"
+                      - option "Ελληνικά (Grego)"
+                      - option "English (Inglês)"
+                      - option "Español (Espanhol)"
+                      - option "فارسی (Persa)"
+                      - option "Suomi (Finlandês)"
+                      - option "Français (Francês)"
+                      - option "हिंदी (Hindi)"
+                      - option "Magyar (Húngaro)"
+                      - option "Bahasa Indonésia (Indonésio)"
+                      - option "Italiano (Italiano)"
+                      - option "עברית (Hebraico)"
+                      - option "日本語 (Japonês)"
+                      - option "한국어 (Coreano)"
+                      - option "मराठी (Marati)"
+                      - option "Bahasa Malaysia (Malaio)"
+                      - option "Nederlands (Holandês)"
+                      - option "Norsk (Norueguês)"
+                      - option "ਪੰਜਾਬੀ (Punjabi)"
+                      - option "Polski (Polonês)"
+                      - option "Português (Português)" [selected]
+                      - option "Română (Romeno)"
+                      - option "Русский (Russo)"
+                      - option "Svenska (Sueco)"
+                      - option "తెలుగు (Telugu)"
+                      - option "ภาษาไทย (Tailandês)"
+                      - option "Tagalog (Tagalog)"
+                      - option "Türkçe (Turco)"
+                      - option "Українська (Ucraniano)"
+                      - option "Tiếng Việt (Vietnamita)"
+                      - option "简体中文 (Chinês (Simplificado))"
+                      - option "正體中文 (Chinês (Tradicional))"

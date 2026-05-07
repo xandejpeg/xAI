@@ -1,0 +1,274 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - region "Mensagem toast":
+      - heading "0 notificações no total" [level=2] [ref=e3]
+      - alert
+  - region [ref=e4]
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - button "Pular para pesquisa" [ref=e8] [cursor=pointer]:
+        - generic [ref=e9]: Pular para pesquisa
+      - button "Pular para conteúdo principal" [ref=e10] [cursor=pointer]:
+        - generic [ref=e11]: Pular para conteúdo principal
+      - button "Atalhos do teclado" [ref=e12] [cursor=pointer]:
+        - generic [ref=e13]: Atalhos do teclado
+      - button "Fechar menu pular" [ref=e14] [cursor=pointer]:
+        - img [ref=e15]
+        - generic [ref=e17]: Fechar menu pular
+    - banner "Navegação geral" [ref=e18]:
+      - generic [ref=e19]:
+        - link "LinkedIn" [ref=e20] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=e23]:
+            - img [ref=e24]
+        - generic [ref=e28]:
+          - combobox "Pesquisar" [ref=e29]
+          - generic:
+            - img
+        - navigation "Navegação principal" [ref=e30]:
+          - list [ref=e31]:
+            - listitem [ref=e32]:
+              - link "atualizações do feed novas notificações Início" [ref=e33] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=e34]:
+                  - generic [ref=e37]: atualizações do feed novas notificações
+                  - img [ref=e291]
+                - generic "Início" [ref=e43]
+            - listitem [ref=e44]:
+              - link "Minha rede" [ref=e45] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - img [ref=e294]
+                - generic "Minha rede" [ref=e51]
+            - listitem [ref=e52]:
+              - link "Vagas" [ref=e53] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+                - img [ref=e297]
+                - generic "Vagas" [ref=e59]
+            - listitem [ref=e60]:
+              - link "Mensagens" [ref=e61] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - img [ref=e300]
+                - generic "Mensagens" [ref=e67]
+            - listitem [ref=e68]:
+              - link "Notificações" [ref=e69] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - img [ref=e303]
+                - generic "Notificações" [ref=e75]
+            - listitem [ref=e76]:
+              - button "Alessandro Chiarele Filho Eu" [ref=e78] [cursor=pointer]:
+                - img "Alessandro Chiarele Filho" [ref=e79]
+                - generic [ref=e80]:
+                  - text: Eu
+                  - img [ref=e81]
+            - listitem [ref=e83]:
+              - button "Para negócios" [ref=e85] [cursor=pointer]:
+                - img [ref=e89]
+                - generic "Para negócios" [ref=e91]:
+                  - text: Para negócios
+                  - img [ref=e92]
+            - listitem [ref=e305]:
+              - 'link "Premium para sua Page: 1 mês grátis" [ref=e307] [cursor=pointer]':
+                - /url: http://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_page_admin_top_nav_upsell%3ACompany+Pages+SKU%3AIn-Product&referenceId=e3a25t%2FgRHaS4Q2MbpgI9g%3D%3D&companyUrn=urn%3Ali%3Afsd_company%3A121284136&isSS=false&upsellSlotId=PREMIUM_PAGE_ADMIN_TOP_NAV&destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2F121284136%2Fadmin%2Fdashboard%2F
+                - generic [ref=e309]: "Premium para sua Page: 1 mês grátis"
+    - generic [ref=e315]:
+      - complementary [ref=e316]:
+        - region "Seção de navegação do administrador da página da empresa" [ref=e318]:
+          - button "Editar imagem de fundo" [ref=e323] [cursor=pointer]:
+            - img [ref=e324]
+          - generic [ref=e326]:
+            - img "Logo da Avante Hub" [ref=e327]
+            - heading "Avante Hub" [level=1] [ref=e328]
+            - generic [ref=e329]:
+              - img [ref=e330]
+              - button "Aprimore sua Page" [ref=e332] [cursor=pointer]
+            - generic [ref=e333]: 0 seguidores
+            - generic [ref=e334]:
+              - link "Criar" [ref=e335] [cursor=pointer]:
+                - img [ref=e336]
+                - generic [ref=e338]: Criar
+              - link "Visualizar como usuário" [ref=e339] [cursor=pointer]:
+                - img [ref=e340]
+                - generic [ref=e342]: Visualizar como usuário
+          - navigation [ref=e343]:
+            - list [ref=e344]:
+              - listitem [ref=e345]:
+                - link "Painel" [ref=e346] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/dashboard
+                  - generic [ref=e350]: Painel
+              - listitem [ref=e351]:
+                - link "Publicações na página" [ref=e352] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/page-posts/published
+                  - generic [ref=e356]: Publicações na página
+              - listitem [ref=e357]:
+                - link "Análises" [ref=e358] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/analytics/updates
+                  - generic [ref=e362]: Análises
+              - listitem [ref=e363]:
+                - link "Feed" [ref=e364] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/feed/following
+                  - generic [ref=e368]: Feed
+              - listitem [ref=e369]:
+                - link "Atividades" [ref=e370] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/notifications/all
+                  - generic [ref=e374]: Atividades
+              - listitem [ref=e375]:
+                - link "Caixa de entrada" [ref=e376] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/inbox?pageMailboxUrn=urn%3Ali%3Afsd_pageMailbox%3A93500240
+                  - generic [ref=e380]: Caixa de entrada
+              - listitem [ref=e381]:
+                - link "Editar Page" [ref=e382] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/dashboard?editPage=true
+                  - generic [ref=e386]: Editar Page
+            - list [ref=e387]:
+              - listitem [ref=e388]:
+                - link "Vagas" [ref=e389] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/posted-jobs/open
+                  - generic [ref=e393]: Vagas
+            - list [ref=e394]:
+              - listitem [ref=e395]:
+                - link "Faça upgrade da sua Page" [ref=e396] [cursor=pointer]:
+                  - /url: http://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_page_admin_left_rail_upsell%3ACompany+Pages+SKU%3AIn-Product&referenceId=8FfcVvDQRUuR%2FoYqUIl%2Bkw%3D%3D&companyUrn=urn%3Ali%3Afsd_company%3A121284136&isSS=false&upsellSlotId=PREMIUM_PAGE_ADMIN_LEFT_RAIL
+                  - generic [ref=e397]:
+                    - img [ref=e399]
+                    - generic [ref=e403]: Faça upgrade da sua Page
+              - listitem [ref=e404]:
+                - link "Anunciar hoje" [ref=e405] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/ad-beta/new-advertiser?companyId=121284136
+                  - generic [ref=e406]:
+                    - img [ref=e408]
+                    - generic [ref=e412]: Anunciar hoje
+              - listitem [ref=e413]:
+                - link "Configurações" [ref=e414] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/settings
+                  - generic [ref=e418]: Configurações
+      - main [ref=e420]:
+        - generic [ref=e422]:
+          - generic [ref=e423]:
+            - heading "Ações de hoje" [level=2] [ref=e424]
+            - paragraph [ref=e425]: As páginas com essas ações finalizadas têm um crescimento 4x maior
+          - list [ref=e426]:
+            - listitem [ref=e427]:
+              - region [ref=e428]:
+                - button "Fechar destaque" [ref=e429] [cursor=pointer]:
+                  - img [ref=e430]
+                  - generic [ref=e432]: Fechar destaque
+                - generic [ref=e433]:
+                  - paragraph [ref=e434]: Adicionar descrição
+                  - paragraph [ref=e435]:
+                    - text: Adicione uma descrição rápida para que sua Page seja encontrada em resultados de pesquisa.
+                    - strong [ref=e436]:
+                      - link "Adicionar" [ref=e437] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/121284136/admin/dashboard?editPage=true&anchor=organization-description-field&editPageActiveTab=details
+            - listitem [ref=e438]:
+              - region [ref=e439]:
+                - button "Fechar destaque" [ref=e440] [cursor=pointer]:
+                  - img [ref=e441]
+                  - generic [ref=e443]: Fechar destaque
+                - generic [ref=e444]:
+                  - paragraph [ref=e445]: Adicionar logo
+                  - paragraph [ref=e446]:
+                    - text: Adicione um logo para destacar sua Page e aumentar o conhecimento da marca.
+                    - strong [ref=e447]:
+                      - link "Adicionar" [ref=e448] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/121284136/admin/dashboard?editPage=true&anchor=organization-logo-field&editPageActiveTab=info
+        - generic [ref=e449]:
+          - generic [ref=e452]:
+            - generic [ref=e454]:
+              - heading "Acompanhar desempenho" [level=2] [ref=e455]
+              - generic [ref=e456]: Aumente a visibilidade da sua Page 3 vezes mais rápido com estatísticas e análises
+            - list [ref=e458]:
+              - listitem [ref=e459]:
+                - link "0 Ocorrências em resultados de pesquisa N/D" [ref=e462] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/analytics/search-appearances
+                  - paragraph [ref=e464]: "0"
+                  - paragraph [ref=e465]: Ocorrências em resultados de pesquisa
+                  - generic [ref=e468]: N/D
+              - listitem [ref=e469]:
+                - link "0 Novos seguidores N/D" [ref=e472] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/analytics/followers?timeRangeStart=1777248000000&timeRangeEnd=1777852799999
+                  - paragraph [ref=e474]: "0"
+                  - paragraph [ref=e475]: Novos seguidores
+                  - generic [ref=e478]: N/D
+              - listitem [ref=e479]:
+                - link "0 Impressões das publicações N/D" [ref=e482] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/analytics/updates?timeRangeStart=1777248000000&timeRangeEnd=1777852799999
+                  - paragraph [ref=e484]: "0"
+                  - paragraph [ref=e485]: Impressões das publicações
+                  - generic [ref=e488]: N/D
+              - listitem [ref=e489]:
+                - link "0 Visitantes da Page N/D" [ref=e492] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/analytics/visitors?timeRangeStart=1777248000000&timeRangeEnd=1777852799999
+                  - paragraph [ref=e494]: "0"
+                  - paragraph [ref=e495]: Visitantes da Page
+                  - generic [ref=e498]: N/D
+          - generic [ref=e502]:
+            - button "Opções de publicação" [ref=e504] [cursor=pointer]:
+              - img [ref=e505]
+            - generic [ref=e507]:
+              - heading "Aprimore sua Page" [level=2] [ref=e508]
+              - paragraph [ref=e510]: Alessandro Chiarele Filho, adicione admins para expandir o alcance da Page.
+              - link "Admins da Page" [ref=e512] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/galapagos-promo-redirect/?promoType=MANAGE_ADMIN_PAGE&src=li-gcpa&veh=SSxOS2xACQxGALxCPAxLATAMxPTxPDx202501xEMEALocalizationAddPageAdminsxCompanyPageAdminsx547xMOFUxVisitsxv3a&mcid=7290347408226430976
+            - link "Admins da Page" [ref=e514] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/galapagos-promo-redirect/?promoType=MANAGE_ADMIN_PAGE&src=li-gcpa&veh=SSxOS2xACQxGALxCPAxLATAMxPTxPDx202501xEMEALocalizationAddPageAdminsxCompanyPageAdminsx547xMOFUxVisitsxv3a&mcid=7290347408226430976
+              - img "Alessandro Chiarele Filho" [ref=e517]
+          - generic [ref=e522]:
+            - generic [ref=e527]:
+              - heading "Gerenciar publicações recentes" [level=2] [ref=e529]
+              - paragraph [ref=e530]:
+                - text: Gerencie o conteúdo da sua Page e amplifique seu alcance com o patrocínio.
+                - strong [ref=e531]:
+                  - link "Saiba mais" [ref=e532] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/help/linkedin/answer/a452425
+            - list [ref=e534]:
+              - generic [ref=e536]:
+                - img [ref=e538]:
+                  - img [ref=e539]
+                - paragraph [ref=e541]: Sua página não teve publicações nos últimos 90 dias
+                - paragraph [ref=e542]: As páginas com publicações 2x por semana crescem 5x mais rápido
+                - link "Inicie uma publicação" [ref=e544] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/121284136/admin/page-posts/published?share=true&shareActorType=ORGANIZATION&shareOrganizationActor=urn%3Ali%3Afsd_company%3A121284136
+                  - img [ref=e545]
+                  - generic [ref=e547]: Inicie uma publicação
+          - generic [ref=e552]:
+            - generic [ref=e555]:
+              - heading "Participar de conversas" [level=2] [ref=e557]
+              - paragraph [ref=e558]: Interaja em conversas recentes para promover o conhecimento da marca e o senso de comunidade
+            - generic [ref=e559]:
+              - img [ref=e561]:
+                - img [ref=e562]
+              - paragraph [ref=e564]: Não há nada no seu feed
+              - paragraph [ref=e565]: Siga outras Pages do seu setor para receber inspiração de novos conteúdos
+              - link "Adicione páginas para seguir" [ref=e567] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/121284136/admin/feed/following?manageFollowing=true
+                - img [ref=e568]
+                - generic [ref=e570]: Adicione páginas para seguir
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=e125]:
+            - generic [ref=e126]:
+              - generic [ref=e128] [cursor=pointer]:
+                - generic [ref=e129]:
+                  - img "Alessandro Chiarele Filho" [ref=e130]
+                  - generic [ref=e150]: O status está on-line
+                - button "Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas." [ref=e131]:
+                  - generic [ref=e132]:
+                    - generic [ref=e133]: Mensagens
+                    - generic [ref=e134]: Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas.
+              - generic [ref=e135]:
+                - button "Abrir o menu suspenso de mensagens" [ref=e137] [cursor=pointer]:
+                  - img "Abrir o menu suspenso de mensagens" [ref=e138]
+                - button "Escrever mensagem" [ref=e141] [cursor=pointer]:
+                  - img [ref=e142]
+                  - generic [ref=e144]: Escrever mensagem
+                - button "Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas." [ref=e145] [cursor=pointer]:
+                  - img [ref=e146]
+                  - generic [ref=e148]: Você está no módulo de mensagens. Pressione Enter para abrir a lista de conversas.
+            - generic [ref=e571]:
+              - heading "Caixas de entrada da página" [level=3] [ref=e573]
+              - generic [ref=e574] [cursor=pointer]:
+                - generic [ref=e575]: Clique para ver as caixas de entrada afiliadas
+                - button "Caixas de entrada da página" [ref=e576]:
+                  - img [ref=e577]
+        - complementary "Assistente de IA para obter ajuda com sua carreira, vagas, etc."
