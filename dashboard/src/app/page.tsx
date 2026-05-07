@@ -5,14 +5,21 @@ import {
   Wrench,
   Car,
   LayoutDashboard,
+  FileText,
 } from "lucide-react";
 import { BuscaVeicular } from "@/components/busca-veicular";
+import { RelatorioProfissional } from "@/components/relatorio-profissional";
 
 const tabs = [
   {
     id: "ferramentas",
     label: "Ferramentas do Xandão",
     icon: Wrench,
+  },
+  {
+    id: "relatorio",
+    label: "Relatório Profissional",
+    icon: FileText,
   },
 ] as const;
 
@@ -101,6 +108,7 @@ export default function Dashboard() {
         <div className="flex-1 overflow-auto p-6">
           {activeTab === "ferramentas" &&
             activeFerramenta === "busca-veicular" && <BuscaVeicular />}
+          {activeTab === "relatorio" && <RelatorioProfissional />}
         </div>
       </main>
     </div>
